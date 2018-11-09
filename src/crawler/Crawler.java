@@ -36,7 +36,7 @@ public final class Crawler
 
 		try
 		{
-			for (var i = 0; i < bestiaries.length; i++) {
+			for (var i = 0; i < 1; i++) {
 				System.out.println("\n[Acquiring infos on bestiary #" + (i + 1) + "...]");
 				var connection = Jsoup.connect(bestiaries[i]);
 				monstersInfos.addAll(new BestiaryParser(connection.get(), i).parseToArrayList());

@@ -7,6 +7,7 @@ import org.jsoup.nodes.Node;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.concurrent.atomic.AtomicBoolean;
 
 class ComplexMonsterParser extends MonsterParser
 {
@@ -41,10 +42,34 @@ class ComplexMonsterParser extends MonsterParser
 		var header = document.getElementsByClass("stat-block-title");
 		var siblings = header.first().siblingElements();
 
+		var canParseSpells = new AtomicBoolean(false);
+		var spellsElementBetween = new ArrayList<Element>();
+
 		siblings.forEach(line -> {
+
+			// monster spell
+
+			if (line.hasClass("stat-block-breaker") && line.text().equals("Offense"))
+			{
+				canParseSpells.set(true);
+			}
+
+			if (line.hasClass("stat-block-breaker") && line.text().equals("Statistics"))
+			{
+				canParseSpells.set(false);
+				spellsElementBetween.clear();
+			}
+
+			if (canParseSpells.get())
+			{
+				spellsElementBetween.add(line);
+			}
+
+			// monster name
+
 			if (isMonsterName(line))
 			{
-				if (isValidMonster()) parseMonster();
+				if (isValidMonster()) parseMonster(spellsElementBetween);
 				elementsBetween.clear();
 			} else
 			{
@@ -63,12 +88,17 @@ class ComplexMonsterParser extends MonsterParser
 	 * */
 	private void parseMonster()
 	{
+		parseMonster(elementsBetween);
+	}
+
+	private void parseMonster(ArrayList<Element> elements)
+	{
 		var name = getName();
-		if (isFiltered(name)) return;
+		// if (isFiltered(name)) return;
 
 		monster = new JsonObject();
 		monster.addProperty("name", name);
-		monster.addProperty("spell", getSpellsByElements(elementsBetween));
+		monster.addProperty("spell", getSpellsByElements(elements));
 		monsters.add(monster);
 	}
 
@@ -87,6 +117,9 @@ class ComplexMonsterParser extends MonsterParser
 	 * */
 	private boolean isMonsterName(Element line)
 	{
+		if (line.hasClass("stat-block-title")) {
+			System.out.println(line);
+		}
 		return Arrays.asList(monsterNames).contains(line.text());
 	}
 
@@ -121,7 +154,7 @@ class ComplexMonsterParser extends MonsterParser
 		// On attrape les noms
 		var monsterNames = document
 				.getElementsByClass("stat-block-title")
-				.select("b");
+				.select("b:has(span)");
 
 		// On crée un filtre pour les noms de monstre non valides (pas de "CR")
 		monsterFilter = monsterNames

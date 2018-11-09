@@ -54,18 +54,26 @@ class BestiaryParser
 	{
 		var isSamePage = false;
 
-		for (var i = 0; i < monsterUrls.size(); i++)
+		for (var i = 162; i < 169; i++)
+		//for (var i = 0; i < monsterUrls.size(); i++)
 		{
-			var isNotSamePage = compareNextPage(i);
-			if (isNotSamePage)
+			var isDifferentFromPreviousPage = comparePreviousPage(i);
+			var isDifferentFromNextPage = compareNextPage(i);
+
+			if (isDifferentFromNextPage)
 			{
-				isSamePage = false;
-				addSimpleMonster(i);
+				if (isDifferentFromPreviousPage)
+				{
+					isSamePage = false;
+					System.out.println("is simple");
+					addSimpleMonster(i);
+				}
 			} else
 			{
 				if (!isSamePage)
 				{
 					isSamePage = true;
+					System.out.println("is complex");
 					addComplexMonster(i);
 				}
 			}
@@ -97,12 +105,18 @@ class BestiaryParser
 		monsters.addAll(monster2);
 	}
 
+	private boolean comparePreviousPage(int i)
+	{
+		if (i == 0) return false;
+		return !getRadical(i - 1).equals(getRadical(i));
+	}
+
 	/*
-	* Si le monstre suivant dans le bestiaire pointe vers le même URL que
-	* celui qu'on analyse présentement, alors on se ne contentera que d'analyser
-	* le premier lien.
-	* @return true si la page suivante ne pointe pas vers le même URL.
-	* */
+	 * Si le monstre suivant dans le bestiaire pointe vers le même URL que
+	 * celui qu'on analyse présentement, alors on se ne contentera que d'analyser
+	 * le premier lien.
+	 * @return true si la page suivante ne pointe pas vers le même URL.
+	 * */
 	private boolean compareNextPage(int i)
 	{
 		if (i == monsterUrls.size() - 1) return true;
@@ -128,8 +142,8 @@ class BestiaryParser
 	}
 
 	/*
-	* Etablit la connexion avec l'URL créée.
-	* */
+	 * Etablit la connexion avec l'URL créée.
+	 * */
 	private Connection connect(int i)
 	{
 		var url = Crawler.getBaseUrl() + bestiaryIndex + monsterUrls.get(i);
