@@ -3,10 +3,8 @@ package crawler;
 import com.google.gson.JsonObject;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.nodes.Node;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicBoolean;
 
 class ComplexMonsterParser extends MonsterParser
@@ -18,7 +16,6 @@ class ComplexMonsterParser extends MonsterParser
 
 	private String[] monsterNames;
 	private int monsterIndex;
-	private String[] monsterFilter;
 
 	ComplexMonsterParser(Document document)
 	{
@@ -39,35 +36,35 @@ class ComplexMonsterParser extends MonsterParser
 
 	ArrayList<JsonObject> parseToJson()
 	{
-		var header = document.getElementsByClass("stat-block-title");
-		var siblings = header.first().siblingElements();
+		var body = document.getElementsByClass("stat-block-title");
+		var siblings = body.first().siblingElements();
 
-		var canParseSpells = new AtomicBoolean(false);
+		var containsSpells = new AtomicBoolean(false);
 		var spellsElementBetween = new ArrayList<Element>();
 
 		siblings.forEach(line -> {
 
 			// monster spell
 
-			if (line.hasClass("stat-block-breaker") && line.text().equals("Offense"))
+			if (isOffenseBlock(line))
 			{
-				canParseSpells.set(true);
-			}
-
-			if (line.hasClass("stat-block-breaker") && line.text().equals("Statistics"))
-			{
-				canParseSpells.set(false);
+				containsSpells.set(true);
 				spellsElementBetween.clear();
 			}
 
-			if (canParseSpells.get())
+			if (isStatsBlock(line))
+			{
+				containsSpells.set(false);
+			}
+
+			if (containsSpells.get())
 			{
 				spellsElementBetween.add(line);
 			}
 
 			// monster name
 
-			if (isMonsterName(line))
+			if (isMonsterName(line) && spellsElementBetween.size() != 0)
 			{
 				if (isValidMonster()) parseMonster(spellsElementBetween);
 				elementsBetween.clear();
@@ -77,7 +74,7 @@ class ComplexMonsterParser extends MonsterParser
 			}
 		});
 
-		parseMonster();
+		parseMonster(spellsElementBetween);
 
 		return monsters;
 	}
@@ -86,15 +83,9 @@ class ComplexMonsterParser extends MonsterParser
 	 * Récupère toutes les informations du monstre et l'ajoute à la liste des monstres
 	 * déjà analysés.
 	 * */
-	private void parseMonster()
-	{
-		parseMonster(elementsBetween);
-	}
-
 	private void parseMonster(ArrayList<Element> elements)
 	{
 		var name = getName();
-		// if (isFiltered(name)) return;
 
 		monster = new JsonObject();
 		monster.addProperty("name", name);
@@ -103,13 +94,19 @@ class ComplexMonsterParser extends MonsterParser
 	}
 
 	/*
-	 * Est-ce que ce nom fait partie de la liste des noms filtrés auparavant ?
+	 * Le bloc suivant contient les sorts
 	 * */
-	private boolean isFiltered(String name)
+	private boolean isOffenseBlock(Element line)
 	{
-		for (var f : monsterFilter)
-			if (name.equals(f)) return true;
-		return false;
+		return line.hasClass("stat-block-breaker") && line.text().equals("Offense");
+	}
+
+	/*
+	 * Le bloc précédent contient les sorts
+	 * */
+	private boolean isStatsBlock(Element line)
+	{
+		return line.hasClass("stat-block-breaker") && line.text().equals("Statistics");
 	}
 
 	/*
@@ -117,10 +114,8 @@ class ComplexMonsterParser extends MonsterParser
 	 * */
 	private boolean isMonsterName(Element line)
 	{
-		if (line.hasClass("stat-block-title")) {
-			System.out.println(line);
-		}
-		return Arrays.asList(monsterNames).contains(line.text());
+		return line.select("p").hasClass("stat-block-title") &&
+				!line.select("span").text().isEmpty();
 	}
 
 	/*
@@ -143,7 +138,7 @@ class ComplexMonsterParser extends MonsterParser
 	 * */
 	private String getName()
 	{
-		return monsterNames[monsterIndex++];
+		return monsterNames[monsterIndex++].split(" <")[0];
 	}
 
 	/*
@@ -151,20 +146,9 @@ class ComplexMonsterParser extends MonsterParser
 	 * */
 	private String[] getNames()
 	{
-		// On attrape les noms
 		var monsterNames = document
 				.getElementsByClass("stat-block-title")
 				.select("b:has(span)");
-
-		// On crée un filtre pour les noms de monstre non valides (pas de "CR")
-		monsterFilter = monsterNames
-				.select("b:not(:has(span))")
-				.html()
-				.split("\n");
-
-		// On enlève le tag <span ...> qui ne nous est pas utile
-		monsterNames.select("span")
-				.forEach(Node::remove);
 
 		return monsterNames.html().split("\n");
 	}

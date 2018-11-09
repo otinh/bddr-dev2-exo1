@@ -36,20 +36,12 @@
         "spell": "[]"
     },
     {
-        "name": "Army Ant Swarm Ant, Giant",
-        "spells": "[]"
-    },
-    {
         "name": "Gorilla",
         "spell": "[]"
     },
     {
         "name": "Dire Ape (Gigantopithecus)",
         "spell": "[]"
-    },
-    {
-        "name": "Ape, Gorilla Ape, Dire",
-        "spells": "[]"
     },
     {
         "name": "Hound Archon",
@@ -104,10 +96,6 @@
         "spell": "[]"
     },
     {
-        "name": "Bear, Grizzly Bear, Dire",
-        "spells": "[]"
-    },
-    {
         "name": "Bebilith",
         "spells": "[\"plane shift\"]"
     },
@@ -118,10 +106,6 @@
     {
         "name": "Giant Stag Beetle",
         "spell": "[]"
-    },
-    {
-        "name": "Beetle, Fire Beetle, Giant Stag",
-        "spells": "[]"
     },
     {
         "name": "Behir",
@@ -138,10 +122,6 @@
     {
         "name": "Dire Boar (Daeodon)",
         "spell": "[]"
-    },
-    {
-        "name": "Boar Boar, Dire",
-        "spells": "[]"
     },
     {
         "name": "Boggard",
@@ -164,10 +144,6 @@
         "spell": "[]"
     },
     {
-        "name": "Cat, Cheetah Cat, Leopard",
-        "spells": "[]"
-    },
-    {
         "name": "Cave Fisher",
         "spells": "[]"
     },
@@ -182,10 +158,6 @@
     {
         "name": "Centipede Swarm",
         "spell": "[]"
-    },
-    {
-        "name": "Centipede, Giant Centipede Swarm",
-        "spells": "[]"
     },
     {
         "name": "Chimera",
@@ -220,20 +192,12 @@
         "spell": "[]"
     },
     {
-        "name": "Crab, Giant Crab Swarm",
-        "spells": "[]"
-    },
-    {
         "name": "Crocodile",
         "spell": "[]"
     },
     {
         "name": "Dire Crocodile",
         "spell": "[]"
-    },
-    {
-        "name": "Crocodile Crocodile, Dire",
-        "spells": "[]"
     },
     {
         "name": "Cyclops",
@@ -380,20 +344,12 @@
         "spell": "[]"
     },
     {
-        "name": "Dog Dog, Riding",
-        "spells": "[]"
-    },
-    {
         "name": "Dolphin",
         "spell": "[]"
     },
     {
         "name": "Orca",
         "spell": "[]"
-    },
-    {
-        "name": "Dolphin Dolphin, Orca",
-        "spells": "[]"
     },
     {
         "name": "Doppelganger",
@@ -544,20 +500,12 @@
         "spell": "[]"
     },
     {
-        "name": "Eagle Eagle, Giant",
-        "spells": "[]"
-    },
-    {
         "name": "Electric Eel",
         "spell": "[]"
     },
     {
         "name": "Giant Moray Eel",
         "spell": "[]"
-    },
-    {
-        "name": "Eel, Electric Eel, Giant Moray",
-        "spells": "[]"
     },
     {
         "name": "Small Air Elemental",
@@ -656,20 +604,12 @@
         "spell": "[]"
     },
     {
-        "name": "Elemental, Air Elemental, Earth Elemental, Fire Elemental, Water",
-        "spells": "[]"
-    },
-    {
         "name": "Elephant",
         "spell": "[]"
     },
     {
         "name": "Mastodon",
         "spell": "[]"
-    },
-    {
-        "name": "Elephant Elephant, Mastodon",
-        "spells": "[]"
     },
     {
         "name": "Ettercap",
@@ -694,10 +634,6 @@
     {
         "name": "Poison Frog",
         "spell": "[]"
-    },
-    {
-        "name": "Frog, Giant Frog, Poison",
-        "spells": "[]"
     },
     {
         "name": "Froghemoth",
@@ -784,8 +720,28 @@
         "spells": "[]"
     },
     {
-        "name": "Golem Golem, Clay Golem, Flesh Golem, Ice Golem, Iron Golem, Stone Golem, Wood",
-        "spells": "[\"move earth\",\"disintegrate\",\"slow\",\"earthquake\",\"slow\",\"slow\",\"slow\",\"slow\",\"slow\",\"slow\",\"rusting grasp\",\"transmute rock to mud\",\"slow\",\"transmute mud to rock\",\"stone to flesh\",\"wood shape\",\"slow\",\"slow\"]"
+        "name": "Clay Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Flesh Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Ice Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Iron Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Stone Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Wood Golem",
+        "spell": "[]"
     },
     {
         "name": "Gorgon",
@@ -828,20 +784,12 @@
         "spell": "[]"
     },
     {
-        "name": "Hell Hound Hell Hound, Nessian",
-        "spells": "[]"
-    },
-    {
         "name": "Aurochs",
         "spell": "[]"
     },
     {
         "name": "Bison",
         "spell": "[]"
-    },
-    {
-        "name": "Herd Animal, Aurochs Herd Animal, Bison",
-        "spells": "[]"
     },
     {
         "name": "Hobgoblin",
@@ -860,10 +808,6 @@
         "spell": "[]"
     },
     {
-        "name": "Horse Horse, Pony",
-        "spells": "[]"
-    },
-    {
         "name": "Hydra",
         "spells": "[]"
     },
@@ -874,10 +818,6 @@
     {
         "name": "Dire Hyena (Hyaenodon)",
         "spell": "[]"
-    },
-    {
-        "name": "Hyena Hyena, Dire",
-        "spells": "[]"
     },
     {
         "name": "Intellect Devourer",
@@ -916,10 +856,6 @@
         "spell": "[]"
     },
     {
-        "name": "Leech, Giant Leech Swarm",
-        "spells": "[]"
-    },
-    {
         "name": "Lich",
         "spells": "[\"circle of death\",\"globe of invulnerability\",\"fireball\",\"cloudkill\",\"cone of cold\",\"magic missile\",\"waves of fatigue\",\"dimension door\",\"enervation\",\"fire shield\",\"wall of ice\",\"dispel magic\",\"fireball\",\"suggestion\",\"vampiric touch\",\"darkness\",\"mage armor\",\"false life\",\"scorching ray\",\"see invisibility\",\"spectral hand\",\"magic missile\",\"ray of enfeeblement\",\"shield\",\"bleed\",\"detect magic\",\"ray of frost\",\"read magic\",\"bestow curse\",\"Perception\",\"Heal\"]"
     },
@@ -936,20 +872,12 @@
         "spell": "[]"
     },
     {
-        "name": "Linnorm, Crag Linnorm, Ice Linnorm, Tarn",
-        "spells": "[]"
-    },
-    {
         "name": "Lion",
         "spell": "[]"
     },
     {
         "name": "Dire Lion (Spotted Lion)",
         "spell": "[]"
-    },
-    {
-        "name": "Lion Lion, Dire",
-        "spells": "[]"
     },
     {
         "name": "Monitor Lizard",
@@ -960,24 +888,16 @@
         "spell": "[]"
     },
     {
-        "name": "Lizard, Monitor Lizard, Giant Frilled",
-        "spells": "[]"
-    },
-    {
         "name": "Lizardfolk",
         "spells": "[]"
     },
     {
         "name": "Wererat (Human Form)",
-        "spell": "[\"Change Shape\",\"Diplomacy\"]"
+        "spell": "[]"
     },
     {
         "name": "WerewolF",
         "spell": "[]"
-    },
-    {
-        "name": "Lycanthrope Lycanthrope, Wererat Lycanthrope, Werewolf",
-        "spells": "[\"Change Shape\",\"Diplomacy\"]"
     },
     {
         "name": "Manticore",
@@ -1036,10 +956,6 @@
         "spell": "[\"displacement\",\"fireball\",\"cat\\u0027s grace\",\"invisibility\",\"summon swarm\",\"charm person\",\"cure light wounds\",\"divine favor\",\"magic missile\",\"shield of faith\",\"bleed\",\"daze\",\"detect magic\",\"mage hand\",\"open/close\",\"ray of frost\",\"read magic\"]"
     },
     {
-        "name": "Naga, Dark Naga, Guardian Naga, Spirit",
-        "spells": "[\"displacement\",\"lightning bolt\",\"cat\\u0027s grace\",\"invisibility\",\"scorching ray\",\"expeditious retreat\",\"magic missile\",\"ray of enfeeblement\",\"shield\",\"silent image\",\"daze\",\"detect magic\",\"light\",\"mage hand\",\"open/close\",\"ray of frost\",\"read magic\",\"divine power\",\"greater invisibility\",\"cure serious wounds\",\"dispel magic\",\"lightning bolt\",\"detect thoughts\",\"lesser restoration\",\"see invisibility\",\"scorching ray\",\"cure light wounds\",\"divine favor\",\"expeditious retreat\",\"mage armor\",\"magic missile\",\"daze\",\"detect magic\",\"light\",\"mage hand\",\"open/close\",\"ray of frost\",\"read magic\",\"stabilize\",\"displacement\",\"fireball\",\"cat\\u0027s grace\",\"invisibility\",\"summon swarm\",\"charm person\",\"cure light wounds\",\"divine favor\",\"magic missile\",\"shield of faith\",\"bleed\",\"daze\",\"detect magic\",\"mage hand\",\"open/close\",\"ray of frost\",\"read magic\"]"
-    },
-    {
         "name": "Neothelid",
         "spells": "[\"fly\",\"detect thoughts\",\"charm monster\",\"suggestion\",\"telekinesis\",\"teleport\",\"poison\",\"suggestion\"]"
     },
@@ -1056,10 +972,6 @@
         "spell": "[\"ethereal jaunt\",\"plane shift\"]"
     },
     {
-        "name": "Nightmare Nightmare, Cauchemar",
-        "spells": "[\"plane shift\",\"ethereal jaunt\",\"plane shift\"]"
-    },
-    {
         "name": "Nymph",
         "spells": "[\"summon nature\\u0027s ally IV\",\"call lightning\",\"cure moderate wounds\",\"water breathing\",\"barkskin\",\"flame blade\",\"resist energy\",\"tree shape\",\"charm animal\",\"endure elements\",\"entangle\",\"obscuring mist\",\"produce flame\",\"detect magic\",\"guidance\",\"light\",\"stabilize\"]"
     },
@@ -1074,10 +986,6 @@
     {
         "name": "Giant Octopus",
         "spell": "[]"
-    },
-    {
-        "name": "Octopus Octopus, Giant",
-        "spells": "[]"
     },
     {
         "name": "Ogre",
@@ -1136,10 +1044,6 @@
         "spell": "[]"
     },
     {
-        "name": "Rat, Dire Rat Swarm",
-        "spells": "[]"
-    },
-    {
         "name": "Remorhaz",
         "spells": "[]"
     },
@@ -1154,10 +1058,6 @@
     {
         "name": "Woolly Rhinoceros",
         "spell": "[]"
-    },
-    {
-        "name": "Rhinoceros Rhinoceros, Woolly",
-        "spells": "[]"
     },
     {
         "name": "Roc",
@@ -1204,10 +1104,6 @@
         "spell": "[]"
     },
     {
-        "name": "Shadow Shadow, Greater",
-        "spells": "[]"
-    },
-    {
         "name": "Shambling Mound",
         "spells": "[]"
     },
@@ -1218,10 +1114,6 @@
     {
         "name": "Dire Shark (Megalodon)",
         "spell": "[]"
-    },
-    {
-        "name": "Shark Shark, Dire",
-        "spells": "[]"
     },
     {
         "name": "Shocker Lizard",
@@ -1256,10 +1148,6 @@
         "spell": "[]"
     },
     {
-        "name": "Snake, Constrictor Snake, Venomous",
-        "spells": "[]"
-    },
-    {
         "name": "Spectre",
         "spells": "[]"
     },
@@ -1276,20 +1164,12 @@
         "spell": "[]"
     },
     {
-        "name": "Spider, Giant Spider Swarm",
-        "spells": "[]"
-    },
-    {
         "name": "Squid",
         "spell": "[]"
     },
     {
         "name": "Giant Squid",
         "spell": "[]"
-    },
-    {
-        "name": "Squid Squid, Giant",
-        "spells": "[]"
     },
     {
         "name": "Stirge",
@@ -1318,10 +1198,6 @@
     {
         "name": "Dire Tiger (Smilodon)",
         "spell": "[]"
-    },
-    {
-        "name": "Tiger Tiger, Dire",
-        "spells": "[]"
     },
     {
         "name": "Treant",
@@ -1364,10 +1240,6 @@
         "spell": "[]"
     },
     {
-        "name": "Wasp, Giant Wasp Swarm",
-        "spells": "[]"
-    },
-    {
         "name": "Wight",
         "spells": "[]"
     },
@@ -1384,10 +1256,6 @@
         "spell": "[]"
     },
     {
-        "name": "Wolf Wolf, Dire",
-        "spells": "[]"
-    },
-    {
         "name": "Wolverine",
         "spell": "[]"
     },
@@ -1396,20 +1264,12 @@
         "spell": "[]"
     },
     {
-        "name": "Wolverine Wolverine, Dire",
-        "spells": "[]"
-    },
-    {
         "name": "Worg",
         "spell": "[]"
     },
     {
         "name": "Winter Wolf",
         "spell": "[]"
-    },
-    {
-        "name": "Worg Worg, Winter Wolf",
-        "spells": "[]"
     },
     {
         "name": "Wraith",

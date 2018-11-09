@@ -8,9 +8,7 @@ public class Main
 {
 	public static void main(String args[]) throws IOException
 	{
-		Crawler.setBestiaries();
-
-		var out = new PrintWriter(new FileWriter(System.getProperty("user.dir") + "\\test.json"));
+		var out = new PrintWriter(new FileWriter(System.getProperty("user.dir") + "\\monsters.json"));
 		out.write(String.valueOf(Crawler.getMonsterInfos()));
 		out.close();
 	}

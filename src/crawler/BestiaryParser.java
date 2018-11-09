@@ -54,18 +54,16 @@ class BestiaryParser
 	{
 		var isSamePage = false;
 
-		for (var i = 162; i < 169; i++)
-		//for (var i = 0; i < monsterUrls.size(); i++)
+		for (var i = 0; i < monsterUrls.size(); i++)
 		{
 			var isDifferentFromPreviousPage = comparePreviousPage(i);
 			var isDifferentFromNextPage = compareNextPage(i);
 
 			if (isDifferentFromNextPage)
 			{
+				isSamePage = false;
 				if (isDifferentFromPreviousPage)
 				{
-					isSamePage = false;
-					System.out.println("is simple");
 					addSimpleMonster(i);
 				}
 			} else
@@ -73,7 +71,6 @@ class BestiaryParser
 				if (!isSamePage)
 				{
 					isSamePage = true;
-					System.out.println("is complex");
 					addComplexMonster(i);
 				}
 			}
@@ -107,7 +104,7 @@ class BestiaryParser
 
 	private boolean comparePreviousPage(int i)
 	{
-		if (i == 0) return false;
+		if (i == 0) return true;
 		return !getRadical(i - 1).equals(getRadical(i));
 	}
 
