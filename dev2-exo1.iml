@@ -7,9 +7,9 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="scala-sdk-2.12.7" level="application" />
-    <orderEntry type="library" name="org.apache.spark:spark-core_2.10:2.2.2" level="application" />
     <orderEntry type="library" name="org.jsoup:jsoup:1.11.3" level="application" />
     <orderEntry type="library" name="com.google.code.gson:gson:2.8.5" level="application" />
+    <orderEntry type="library" name="org.apache.spark:spark-core_2.11:2.4.0" level="application" />
+    <orderEntry type="library" name="scala-sdk-2.11.12" level="application" />
   </component>
 </module>

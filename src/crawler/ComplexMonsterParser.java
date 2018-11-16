@@ -37,13 +37,13 @@ class ComplexMonsterParser extends MonsterParser
 	ArrayList<JsonObject> parseToJson()
 	{
 		var body = document.getElementsByClass("stat-block-title");
+		//var body = document.getElementsByClass("body");
 		var siblings = body.first().siblingElements();
 
 		var containsSpells = new AtomicBoolean(false);
 		var spellsElementBetween = new ArrayList<Element>();
 
 		siblings.forEach(line -> {
-
 			// monster spell
 
 			if (isOffenseBlock(line))
@@ -86,6 +86,7 @@ class ComplexMonsterParser extends MonsterParser
 	private void parseMonster(ArrayList<Element> elements)
 	{
 		var name = getName();
+		if (name.isEmpty()) return;
 
 		monster = new JsonObject();
 		monster.addProperty("name", name);
@@ -114,8 +115,8 @@ class ComplexMonsterParser extends MonsterParser
 	 * */
 	private boolean isMonsterName(Element line)
 	{
-		return line.select("p").hasClass("stat-block-title") &&
-				!line.select("span").text().isEmpty();
+		return (line.select("p").hasClass("stat-block-title") &&
+				!line.select("span").text().isEmpty());
 	}
 
 	/*
@@ -138,7 +139,7 @@ class ComplexMonsterParser extends MonsterParser
 	 * */
 	private String getName()
 	{
-		return monsterNames[monsterIndex++].split(" <")[0];
+		return monsterNames[monsterIndex++].split("<")[0].trim();
 	}
 
 	/*
@@ -149,6 +150,13 @@ class ComplexMonsterParser extends MonsterParser
 		var monsterNames = document
 				.getElementsByClass("stat-block-title")
 				.select("b:has(span)");
+
+		if (monsterNames.text().isEmpty())
+		{
+			monsterNames = document
+					.getElementsByClass("stat-block-title")
+					.select("p:has(span)");
+		}
 
 		return monsterNames.html().split("\n");
 	}

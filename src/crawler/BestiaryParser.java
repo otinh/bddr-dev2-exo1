@@ -2,6 +2,7 @@ package crawler;
 
 import com.google.gson.JsonObject;
 import org.jsoup.Connection;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -85,7 +86,13 @@ class BestiaryParser
 	private void addSimpleMonster(int i) throws IOException
 	{
 		var monster = new JsonObject();
-		monster = new SimpleMonsterParser(connect(i).get()).parseToJson();
+		try {
+			monster = new SimpleMonsterParser(connect(i).get()).parseToJson();
+		} catch (HttpStatusException e) {
+			System.err.println("^ Error 404");
+		}
+
+		if (monster.size() == 0) return;
 
 		if (!hasEmptyName(monster))
 			monsters.add(monster);

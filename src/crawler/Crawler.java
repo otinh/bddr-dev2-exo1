@@ -1,6 +1,7 @@
 package crawler;
 
 import com.google.gson.JsonObject;
+import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
 
 import java.io.IOException;
@@ -29,7 +30,7 @@ public final class Crawler
 
 		try
 		{
-			for (var i = 0; i < 1; i++)
+			for (var i = 0; i < bestiaries.length; i++)
 			{
 				System.out.println("\n[Acquiring infos on bestiary #" + (i + 1) + "...]");
 				var connection = Jsoup.connect(bestiaries[i]);

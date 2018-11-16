@@ -1302,5 +1302,3997 @@
     {
         "name": "Zombie",
         "spells": "[]"
+    },
+    {
+        "name": "Achaierai",
+        "spells": "[]"
+    },
+    {
+        "name": "Akhana",
+        "spell": "[\"deathwatch\",\"cure serious wounds\",\"gentle repose\",\"inflict serious wounds\",\"sanctuary\",\"restoration\",\"slay living\",\"raise dead\"]"
+    },
+    {
+        "name": "Avoral",
+        "spell": "[\"detect magic\",\"see invisibility\",\"speak with animals\",\"aid\",\"blur\",\"command\",\"detect magic\",\"dimension door\",\"dispel magic\",\"gust of wind\",\"hold person\",\"light\",\"magic circle against evil\",\"lightning bolt\",\"magic missile\"]"
+    },
+    {
+        "name": "Akata",
+        "spells": "[]"
+    },
+    {
+        "name": "Amoeba, Giant",
+        "spell": "[]"
+    },
+    {
+        "name": "Amphisbaena",
+        "spells": "[]"
+    },
+    {
+        "name": "Cassisian",
+        "spell": "[\"detect evil\",\"know direction\",\"aid\",\"daylight\",\"commune\"]"
+    },
+    {
+        "name": "Animate Dream",
+        "spells": "[\"deep slumber\",\"dimension door\",\"nightmare\",\"confusion\",\"fear\",\"phantasmal killer\"]"
+    },
+    {
+        "name": "Aranea",
+        "spells": "[\"invisibility\",\"mirror image\",\"charm person\",\"mage armor\",\"silent image\",\"sleep\",\"daze\",\"detect magic\",\"ghost sound\",\"light\",\"mage hand\",\"resistance\"]"
+    },
+    {
+        "name": "Shield Archon",
+        "spell": "[\"magic circle against evil\",\"aid\",\"greater teleport\",\"message\",\"disrupting weapon\",\"divine power\",\"shield other\"]"
+    },
+    {
+        "name": "Athach",
+        "spells": "[]"
+    },
+    {
+        "name": "Attic Whisperer",
+        "spells": "[]"
+    },
+    {
+        "name": "Aurumvorax",
+        "spells": "[]"
+    },
+    {
+        "name": "Axiomite",
+        "spells": "[\"dispel chaos\",\"haste\",\"hold monster\",\"lightning bolt\",\"order\\u0027s wrath\",\"telekinesis\",\"true strike\",\"true seeing\"]"
+    },
+    {
+        "name": "Brijidine",
+        "spell": "[\"holy aura\",\"flaming sphere\",\"heat metal\",\"meld into stone\",\"soften earth and stone\",\"stone shape\",\"cure serious wounds\",\"flame strike\",\"move earth\",\"spike stones\",\"stone tell\",\"summon nature\\u0027s ally V\",\"wall of stone\",\"earthquake\",\"fire storm\",\"heal\",\"stoneskin\",\"wall of fire\"]"
+    },
+    {
+        "name": "Azer",
+        "spells": "[]"
+    },
+    {
+        "name": "Badger",
+        "spell": "[]"
+    },
+    {
+        "name": "Banshee",
+        "spells": "[]"
+    },
+    {
+        "name": "Mobat",
+        "spell": "[]"
+    },
+    {
+        "name": "Goliath Stag Beetle",
+        "spell": "[]"
+    },
+    {
+        "name": "Belker",
+        "spells": "[]"
+    },
+    {
+        "name": "Blindheim",
+        "spells": "[]"
+    },
+    {
+        "name": "Blink Dog",
+        "spells": "[\"blink\",\"dimension door\"]"
+    },
+    {
+        "name": "Bodak",
+        "spells": "[]"
+    },
+    {
+        "name": "Brownie",
+        "spells": "[\"dancing lights\",\"mending\",\"prestidigitation\",\"lesser confusion\",\"dimension door\",\"mirror image\",\"ventriloquism\"]"
+    },
+    {
+        "name": "Bunyip",
+        "spells": "[]"
+    },
+    {
+        "name": "Carnivorous Blob",
+        "spells": "[]"
+    },
+    {
+        "name": "Catoblepas",
+        "spells": "[]"
+    },
+    {
+        "name": "Giant Whiptail Centipede",
+        "spell": "[]"
+    },
+    {
+        "name": "Chaos Beast",
+        "spells": "[\"amorphous\",\"amorphous\",\"alter self\",\"elemental\",\"polymorph\",\"curse\",\"shapechange\",\"stoneskin\",\"amorphous\",\"amorphous\"]"
+    },
+    {
+        "name": "Charda",
+        "spells": "[]"
+    },
+    {
+        "name": "Charybdis",
+        "spells": "[]"
+    },
+    {
+        "name": "Chupacabra",
+        "spells": "[]"
+    },
+    {
+        "name": "Giant Cockroach",
+        "spell": "[]"
+    },
+    {
+        "name": "Crawling Hand",
+        "spell": "[]"
+    },
+    {
+        "name": "Crypt Thing",
+        "spells": "[\"dimension door\"]"
+    },
+    {
+        "name": "Crysmal",
+        "spells": "[\"detect magic\",\"ghost sound\",\"mage hand\",\"silent image\",\"dimension door\",\"sanctuary\",\"touch of idiocy\"]"
+    },
+    {
+        "name": "Astradaemon",
+        "spell": "[\"deathwatch\",\"displacement\",\"true seeing\",\"enervation\",\"fear\",\"greater teleport\",\"vampiric touch\",\"locate creature\",\"plane shift\",\"energy drain\",\"finger of death\"]"
+    },
+    {
+        "name": "Dark Slayer",
+        "spells": "[\"detect magic\",\"bleed\",\"chill touch\",\"darkness\",\"spectral hand\",\"daze monster\",\"death knell\",\"inflict moderate wounds\"]"
+    },
+    {
+        "name": "Death Worm",
+        "spells": "[]"
+    },
+    {
+        "name": "Decapus",
+        "spells": "[\"minor image\"]"
+    },
+    {
+        "name": "Kalavakus",
+        "spell": "[\"command\",\"greater teleport\",\"telekinesis\",\"air walk\",\"dominate person\",\"haste\",\"greater command\",\"symbol of persuasion\"]"
+    },
+    {
+        "name": "Denizen of Leng",
+        "spells": "[\"tongues\",\"detect thoughts\",\"hypnotic pattern\",\"levitate\",\"minor image\",\"locate object\",\"plane shift\"]"
+    },
+    {
+        "name": "Destrachan",
+        "spells": "[\"Destruction\"]"
+    },
+    {
+        "name": "Accuser Devil (Zebub)",
+        "spell": "[\"greater teleport\",\"invisibility\",\"grease\",\"summon swarm\",\"whispering wind\"]"
+    },
+    {
+        "name": "Devilfish",
+        "spells": "[]"
+    },
+    {
+        "name": "Dhampir",
+        "spells": "[\"detect undead\"]"
+    },
+    {
+        "name": "Allosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Young Brine Dragon",
+        "spell": "[\"obscuring mist\",\"speak with animals\",\"color spray\",\"touch of the sea\",\"detect magic\",\"mage hand\",\"open/close\",\"prestidigitation\"]"
+    },
+    {
+        "name": "Adult Brine Dragon",
+        "spell": "[\"control water\",\"obscuring mist\",\"speak with animals\",\"water breathing\",\"aqueous orb\",\"sleet storm\",\"alter self\",\"invisibility\",\"slipstream\",\"color spray\",\"feather fall\",\"flare burst\",\"ray of enfeeblement\",\"touch of the sea\",\"detect magic\",\"detect poison\",\"mage hand\",\"open/close\",\"prestidigitation\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Ancient Brine Dragon",
+        "spell": "[\"control water\",\"obscuring mist\",\"speak with animals\",\"water breathing\",\"horrid wilting\",\"control weather\",\"mass fly\",\"fluid form\",\"true seeing\",\"transformation\",\"break enchantment\",\"dismissal\",\"teleport\",\"wall of force\",\"ball lightning\",\"ice storm\",\"greater invisibility\",\"solid fog\",\"aqueous orb\",\"deep slumber\",\"dispel magic\",\"sleet storm\",\"alter self\",\"detect thoughts\",\"invisibility\",\"make whole\",\"slipstream\",\"color spray\",\"feather fall\",\"flare burst\",\"ray of enfeeblement\",\"touch of the sea\",\"arcane mark\",\"detect magic\",\"detect poison\",\"mage hand\",\"message\",\"open/close\",\"prestidigitation\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Young Cloud Dragon",
+        "spell": "[\"fog cloud\",\"obscuring mist\"]"
+    },
+    {
+        "name": "Adult Cloud Dragon",
+        "spell": "[\"fog cloud\",\"obscuring mist\",\"solid fog\",\"blur\",\"see invisibility\",\"charm person\",\"detect secret doors\",\"shield\",\"true strike\",\"dancing lights\",\"detect poison\",\"light\",\"message\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Cloud Dragon",
+        "spell": "[\"fog cloud\",\"obscuring mist\",\"solid fog\",\"wind walk\",\"cloudkill\",\"chain lightning\",\"greater dispel magic\",\"cone of cold\",\"dismissal\",\"teleport\",\"ice storm\",\"lesser geas\",\"river of wind\",\"arcane sight\",\"cloak of winds\",\"stinking cloud\",\"suggestion\",\"eagle\\u0027s splendor\",\"glitterdust\",\"gust of wind\",\"locate object\",\"see invisibility\",\"alter winds\",\"charm person\",\"detect secret doors\",\"erase\",\"true strike\",\"dancing lights\",\"detect poison\",\"light\",\"mage hand\",\"message\",\"prestidigitation\",\"read magic\",\"resistance\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Young Crystal Dragon",
+        "spell": "[\"color spray\"]"
+    },
+    {
+        "name": "Adult Crystal Dragon",
+        "spell": "[\"color spray\",\"glitterdust\",\"rainbow pattern\",\"shield\",\"unseen servant\",\"acid splash\",\"detect magic\",\"ghost sound\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Crystal Dragon",
+        "spell": "[\"color spray\",\"glitterdust\",\"rainbow pattern\",\"prismatic spray\",\"stone to flesh\",\"dimension door\",\"phantasmal killer\",\"displacement\",\"lightning bolt\",\"major image\",\"blindness/deafness\",\"invisibility\",\"minor image\",\"mirror image\",\"alarm\",\"feather fall\",\"magic aura\",\"silent image\",\"unseen servant\",\"acid splash\",\"detect magic\",\"detect poison\",\"ghost sound\",\"mage hand\",\"message\",\"read magic\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Young Magma Dragon",
+        "spell": "[\"burning hands\",\"flare burst\",\"grease\",\"bleed\",\"detect magic\",\"open/close\",\"spark\"]"
+    },
+    {
+        "name": "Adult Magma Dragon",
+        "spell": "[\"burning hands\",\"scorching ray\",\"wall of fire\",\"dispel magic\",\"fireball\",\"dust of twilight\",\"flaming sphere\",\"glitterdust\",\"feather fall\",\"flare burst\",\"grease\",\"shield\",\"true strike\",\"bleed\",\"detect magic\",\"detect poison\",\"open/close\",\"read magic\",\"spark\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Ancient Magma Dragon",
+        "spell": "[\"fire shield\",\"burning hands\",\"scorching ray\",\"wall of fire\",\"delayed blast fireball\",\"greater polymorph\",\"prismatic spray\",\"chain lightning\",\"contagious flame\",\"eyebite\",\"hungry pit\",\"polymorph\",\"teleport\",\"wall of force\",\"acid pit\",\"dimensional anchor\",\"fire shield\",\"displacement\",\"dispel magic\",\"fireball\",\"wind wall\",\"darkness\",\"dust of twilight\",\"flaming sphere\",\"glitterdust\",\"feather fall\",\"flare burst\",\"grease\",\"shield\",\"true strike\",\"bleed\",\"detect magic\",\"detect poison\",\"ghost sound\",\"light\",\"open/close\",\"read magic\",\"spark\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Young Umbral Dragon",
+        "spell": "[\"darkness\",\"inflict light wounds\",\"shield\",\"bleed\",\"detect magic\",\"detect poison\",\"read magic\"]"
+    },
+    {
+        "name": "Adult Umbral Dragon",
+        "spell": "[\"darkness\",\"shadow walk\",\"vampiric touch\",\"dispel magic\",\"inflict serious wounds\",\"command undead\",\"invisibility\",\"web\",\"grease\",\"inflict light wounds\",\"magic missile\",\"reduce person\",\"shield\",\"bleed\",\"detect magic\",\"detect poison\",\"disrupt undead\",\"mage hand\",\"ray of frost\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Umbral Dragon",
+        "spell": "[\"darkness\",\"project image\",\"shadow walk\",\"vampiric touch\",\"finger of death\",\"destruction\",\"limited wish\",\"harm\",\"mislead\",\"veil\",\"greater command\",\"slay living\",\"teleport\",\"unhallow\",\"enervation\",\"phantasmal killer\",\"unholy blight\",\"dispel magic\",\"haste\",\"inflict serious wounds\",\"lightning bolt\",\"alter self\",\"blur\",\"command undead\",\"invisibility\",\"web\",\"inflict light wounds\",\"grease\",\"magic missile\",\"reduce person\",\"shield\",\"acid splash\",\"bleed\",\"detect magic\",\"detect poison\",\"disrupt undead\",\"ghost sound\",\"mage hand\",\"ray of frost\",\"read magic\"]"
+    },
+    {
+        "name": "Dragon Horse",
+        "spells": "[]"
+    },
+    {
+        "name": "Dragonfly, Giant",
+        "spells": "[]"
+    },
+    {
+        "name": "Flame Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Draugr",
+        "spells": "[]"
+    },
+    {
+        "name": "Dullahan",
+        "spells": "[]"
+    },
+    {
+        "name": "Dust Digger",
+        "spells": "[]"
+    },
+    {
+        "name": "D'ziriak",
+        "spells": "[\"plane shift\"]"
+    },
+    {
+        "name": "Small Ice Elemental",
+        "spell": "[]"
+    },
+    {
+        "name": "Medium Ice Elemental",
+        "spell": "[]"
+    },
+    {
+        "name": "Large Ice Elemental",
+        "spell": "[]"
+    },
+    {
+        "name": "Huge Ice Elemental",
+        "spell": "[]"
+    },
+    {
+        "name": "Greater Ice Elemental",
+        "spell": "[]"
+    },
+    {
+        "name": "Elder Ice Elemental",
+        "spell": "[]"
+    },
+    {
+        "name": "Faceless Stalker",
+        "spells": "[\"tongues\"]"
+    },
+    {
+        "name": "Fetchling",
+        "spells": "[\"disguise self\"]"
+    },
+    {
+        "name": "Fly, Giant",
+        "spells": "[]"
+    },
+    {
+        "name": "Forlarren",
+        "spells": "[\"heat metal\"]"
+    },
+    {
+        "name": "Frost Worm",
+        "spells": "[]"
+    },
+    {
+        "name": "Fungal Crawler",
+        "spells": "[]"
+    },
+    {
+        "name": "Gar",
+        "spell": "[]"
+    },
+    {
+        "name": "Marsh Giant",
+        "spell": "[\"augury\",\"bestow curse\",\"fog cloud\"]"
+    },
+    {
+        "name": "Gloomwing",
+        "spells": "[]"
+    },
+    {
+        "name": "Adamantine Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Gray Render",
+        "spells": "[]"
+    },
+    {
+        "name": "Jinkin",
+        "spell": "[\"prestidigitation\",\"dimension door\"]"
+    },
+    {
+        "name": "Grick",
+        "spells": "[]"
+    },
+    {
+        "name": "Grig",
+        "spells": "[\"disguise self\",\"entangle\",\"invisibility\",\"pyrotechnics\"]"
+    },
+    {
+        "name": "Grindylow",
+        "spells": "[]"
+    },
+    {
+        "name": "Grippli",
+        "spells": "[]"
+    },
+    {
+        "name": "Gryph",
+        "spells": "[]"
+    },
+    {
+        "name": "Gug",
+        "spells": "[]"
+    },
+    {
+        "name": "Hangman Tree",
+        "spells": "[]"
+    },
+    {
+        "name": "Hellcat",
+        "spells": "[]"
+    },
+    {
+        "name": "Camel",
+        "spell": "[]"
+    },
+    {
+        "name": "Hippocampus",
+        "spells": "[]"
+    },
+    {
+        "name": "Hippogriff",
+        "spells": "[]"
+    },
+    {
+        "name": "hippopotamus",
+        "spell": "[]"
+    },
+    {
+        "name": "Hound of Tindalos",
+        "spells": "[\"air walk\",\"fog cloud\",\"invisibility\",\"locate creature\",\"dimensional anchor\",\"discern location\",\"greater scrying\",\"haste\",\"slow\"]"
+    },
+    {
+        "name": "Howler",
+        "spells": "[\"Curse\"]"
+    },
+    {
+        "name": "Ifrit",
+        "spells": "[\"burning hands\",\"burning hands\",\"mage armor\",\"acid splash\",\"detect magic\",\"flare\",\"prestidigitation\"]"
+    },
+    {
+        "name": "Arbiter",
+        "spell": "[\"detect chaos\",\"command\",\"make whole\",\"protection from chaos\",\"commune\"]"
+    },
+    {
+        "name": "Kolyarut",
+        "spell": "[\"discern lies\",\"disguise self\",\"enervation\",\"fear\",\"hold person\",\"invisibility\",\"locate creature\",\"suggestion\",\"vampiric touch\",\"hold monster\",\"mark of justice\",\"suggestion\",\"geas/quest\"]"
+    },
+    {
+        "name": "Lhaksharut",
+        "spell": "[\"detect chaos\",\"detect magic\",\"shield of law\",\"true seeing\",\"dispel magic\",\"greater teleport\",\"sending\",\"dictum\",\"dimensional anchor\",\"dimensional lock\",\"disintegrate\",\"dismissal\",\"greater scrying\",\"plane shift\",\"wall of force\",\"imprisonment\"]"
+    },
+    {
+        "name": "Marut",
+        "spell": "[\"air walk\",\"true seeing\",\"dimension door\",\"fear\",\"greater command\",\"greater dispel magic\",\"mass inflict light wounds\",\"locate creature\",\"chain lightning\",\"circle of death\",\"mark of justice\",\"wall of force\",\"earthquake\",\"geas/quest\",\"plane shift\"]"
+    },
+    {
+        "name": "Zelekhut",
+        "spell": "[\"true seeing\",\"clairaudience/clairvoyance\",\"dimensional anchor\",\"dispel magic\",\"fear\",\"hold person\",\"locate creature\",\"hold monster\",\"mark of justice\",\"lesser geas\"]"
+    },
+    {
+        "name": "Jabberwock",
+        "spells": "[]"
+    },
+    {
+        "name": "Giant Jellyfish",
+        "spell": "[]"
+    },
+    {
+        "name": "Jellyfish Swarm",
+        "spell": "[]"
+    },
+    {
+        "name": "Jyoti",
+        "spells": "[\"mage armor\",\"aid\",\"cure serious wounds\",\"daylight\",\"dimension door\",\"lesser restoration\",\"searing light\",\"breath of life\",\"disrupting weapon\"]"
+    },
+    {
+        "name": "Kelpie",
+        "spells": "[]"
+    },
+    {
+        "name": "Korred",
+        "spells": "[\"animate rope\",\"shatter\",\"stone shape\",\"stone tell\"]"
+    },
+    {
+        "name": "Krenshar",
+        "spells": "[]"
+    },
+    {
+        "name": "Lamia Matriarch",
+        "spells": "[\"charm monster\",\"ventriloquism\",\"deep slumber\",\"dream\",\"major image\",\"mirror image\",\"suggestion\",\"haste\",\"death knell\",\"invisibility\",\"cure light wounds\",\"divine favor\",\"mage armor\",\"magic missile\",\"dancing lights\",\"daze\",\"detect magic\",\"ghost sound\",\"mage hand\",\"mending\",\"prestidigitation\"]"
+    },
+    {
+        "name": "Leng Spider",
+        "spells": "[\"arcane sight\",\"freedom of movement\",\"tongues\",\"dispel magic\",\"fabricate\",\"air walk\",\"invisibility\",\"major image\",\"charm monster\",\"insanity\",\"mirage arcana\",\"veil\"]"
+    },
+    {
+        "name": "Leprechaun",
+        "spells": "[\"shillelagh\",\"dancing lights\",\"ghost sound\",\"invisibility\",\"mage hand\",\"major image\",\"prestidigitation\",\"ventriloquism\",\"color spray\",\"fabricate\",\"major creation\"]"
+    },
+    {
+        "name": "Leucrotta",
+        "spells": "[]"
+    },
+    {
+        "name": "Locathah",
+        "spells": "[]"
+    },
+    {
+        "name": "Lurker in Light",
+        "spells": "[\"dancing lights\",\"flare\",\"ghost sound\",\"light\",\"mage hand\",\"daylight\",\"blindness/deafness\"]"
+    },
+    {
+        "name": "Werebear (Human Form)",
+        "spell": "[\"detect poison\"]"
+    },
+    {
+        "name": "Maggot, Giant",
+        "spells": "[]"
+    },
+    {
+        "name": "Magma Ooze",
+        "spells": "[]"
+    },
+    {
+        "name": "Mandragora",
+        "spells": "[]"
+    },
+    {
+        "name": "Arsinoitherium",
+        "spell": "[]"
+    },
+    {
+        "name": "Mercane",
+        "spells": "[\"dimension door\",\"invisibility\",\"plane shift\"]"
+    },
+    {
+        "name": "Merrow",
+        "spells": "[]"
+    },
+    {
+        "name": "Mihstu",
+        "spells": "[]"
+    },
+    {
+        "name": "Mongrelman",
+        "spells": "[]"
+    },
+    {
+        "name": "Moonflower",
+        "spells": "[]"
+    },
+    {
+        "name": "Mothman",
+        "spells": "[\"blur\",\"detect thoughts\",\"ghost sound\",\"misdirection\",\"greater invisibility\",\"major image\",\"modify memory\",\"nightmare\",\"phantasmal killer\",\"shadow walk\",\"suggestion\",\"false vision\",\"mind fog\",\"mislead\",\"project image\"]"
+    },
+    {
+        "name": "Mu Spore",
+        "spells": "[]"
+    },
+    {
+        "name": "Necrophidius",
+        "spells": "[]"
+    },
+    {
+        "name": "Neh-Thalggu",
+        "spells": "[\"lightning bolt\",\"hold person\",\"acid arrow\",\"alter self\",\"invisibility\",\"grease\",\"magic missile\",\"ray of enfeeblement\",\"shield\",\"unseen servant\",\"acid splash\",\"dancing lights\",\"detect magic\",\"mage hand\",\"open/close\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Nereid",
+        "spells": "[\"control water\",\"suggestion\",\"summon monster VI\"]"
+    },
+    {
+        "name": "Nightcrawler",
+        "spell": "[\"air walk\",\"detect magic\",\"magic fang\",\"contagion\",\"deeper darkness\",\"greater dispel magic\",\"invisibility\",\"unholy blight\",\"cone of cold\",\"confusion\",\"haste\",\"hold monster\",\"finger of death\",\"mass hold monster\",\"plane shift\"]"
+    },
+    {
+        "name": "Ogrekin",
+        "spells": "[]"
+    },
+    {
+        "name": "Oread",
+        "spells": "[\"magic stone\"]"
+    },
+    {
+        "name": "Pech",
+        "spells": "[\"stone shape\",\"stone tell\"]"
+    },
+    {
+        "name": "Peryton",
+        "spells": "[]"
+    },
+    {
+        "name": "Petitioner",
+        "spells": "[]"
+    },
+    {
+        "name": "Phycomid",
+        "spells": "[]"
+    },
+    {
+        "name": "Poltergeist",
+        "spells": "[]"
+    },
+    {
+        "name": "Baboon",
+        "spell": "[]"
+    },
+    {
+        "name": "Imentesh",
+        "spell": "[\"detect law\",\"tongues\",\"dimension door\",\"make whole\",\"major creation\",\"shatter\",\"shrink item\",\"chaos hammer\",\"dispel magic\",\"slow\",\"break enchantment\",\"dispel law\",\"haste\",\"polymorph any object\"]"
+    },
+    {
+        "name": "Augnagar",
+        "spell": "[\"true seeing\",\"dimension door\",\"protection from law\",\"waves of exhaustion\"]"
+    },
+    {
+        "name": "Chernobue",
+        "spell": "[\"air walk\",\"arcane sight\",\"chaos hammer\",\"darkness\",\"confusion\",\"darkness\",\"dispel magic\",\"protection from law\",\"plane shift\"]"
+    },
+    {
+        "name": "Cythnigot",
+        "spell": "[\"detect law\",\"detect magic\",\"fly\",\"soften earth and stone\",\"warp wood\",\"commune\"]"
+    },
+    {
+        "name": "Iathavos",
+        "spell": "[\"cloak of chaos\",\"foresight\",\"freedom of movement\",\"true seeing\",\"dimension door\",\"dispel law\",\"greater dispel magic\",\"magic missile\",\"plane shift\",\"wind walk\",\"word of recall\",\"black tentacles\",\"dimensional lock\",\"horrid wilting\",\"insanity\",\"word of chaos\",\"heal\",\"imprisonment\"]"
+    },
+    {
+        "name": "Nyogoth",
+        "spell": "[\"acid arrow\",\"fear\",\"protection from law\",\"acid fog\",\"dimension door\"]"
+    },
+    {
+        "name": "Shoggti",
+        "spell": "[\"tongues\",\"command\",\"charm person\",\"protection from law\",\"charm monster\",\"dimension door\"]"
+    },
+    {
+        "name": "Thulgant",
+        "spell": "[\"cloak of chaos\",\"displacement\",\"freedom of movement\",\"true seeing\",\"dimension door\",\"greater dispel magic\",\"telekinesis\",\"dimension door\",\"flesh to stone\",\"word of chaos\",\"binding\",\"plane shift\",\"telekinetic sphere\",\"temporal stasis\"]"
+    },
+    {
+        "name": "quickling",
+        "spells": "[]"
+    },
+    {
+        "name": "quickwood",
+        "spells": "[]"
+    },
+    {
+        "name": "Rast",
+        "spells": "[]"
+    },
+    {
+        "name": "Ravener",
+        "spells": "[\"detect magic\",\"find the path\",\"pyrotechnics\",\"suggestion\",\"wall of fire\",\"energy drain\",\"time stop\",\"wish\",\"dimensional lock\",\"horrid wilting\",\"maze\",\"forcecage\",\"greater teleport\",\"spell turning\",\"chain lightning\",\"greater dispel magic\",\"true seeing\",\"cone of cold\",\"dominate person\",\"feeblemind\",\"wall of force\",\"charm monster\",\"confusion\",\"greater invisibility\",\"solid fog\",\"displacement\",\"haste\",\"slow\",\"vampiric touch\",\"detect thoughts\",\"false life\",\"mirror image\",\"see invisibility\",\"web\",\"mage armor\",\"magic missile\",\"ray of enfeeblement\",\"shield\",\"true strike\",\"arcane mark\",\"detect magic\",\"mage hand\",\"mending\",\"message\",\"prestidigitation\",\"ray of frost\",\"read magic\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Manta Ray",
+        "spell": "[]"
+    },
+    {
+        "name": "Redcap",
+        "spells": "[]"
+    },
+    {
+        "name": "Reefclaw",
+        "spells": "[]"
+    },
+    {
+        "name": "Revenant",
+        "spells": "[]"
+    },
+    {
+        "name": "Sandman",
+        "spells": "[]"
+    },
+    {
+        "name": "Sard",
+        "spells": "[\"control weather\",\"lightning bolt\",\"tree shape\",\"transport via plants\",\"chain lightning\",\"lightning bolt\",\"storm of vengeance\",\"whirlwind\"]"
+    },
+    {
+        "name": "Scarecrow",
+        "spells": "[]"
+    },
+    {
+        "name": "Sceaduinar",
+        "spells": "[\"entropic shield\",\"hide from undead\",\"bleed\",\"dimension door\",\"dispel magic\",\"death knell\",\"deeper darkness\",\"enervation\",\"inflict serious wounds\",\"silence\",\"antilife shell\",\"greater teleport\",\"harm\",\"slay living\"]"
+    },
+    {
+        "name": "Black Scorpion",
+        "spell": "[]"
+    },
+    {
+        "name": "Scylla",
+        "spells": "[\"freedom of movement\",\"nondetection\",\"see invisibility\",\"acid arrow\",\"control water\",\"fog cloud\",\"greater dispel magic\",\"major image\",\"black tentacles\",\"charm monster\",\"insanity\",\"mirage arcana\",\"solid fog\",\"control weather\",\"power word stun\",\"project image\"]"
+    },
+    {
+        "name": "Serpentfolk",
+        "spells": "[\"disguise self\",\"ventriloquism\",\"blur\",\"mirror image\",\"suggestion\"]"
+    },
+    {
+        "name": "Seugathi",
+        "spells": "[\"mage armor\",\"detect thoughts\",\"levitate\",\"confusion\",\"dispel magic\",\"suggestion\",\"mind fog\",\"phantasmal killer\"]"
+    },
+    {
+        "name": "Shantak",
+        "spells": "[]"
+    },
+    {
+        "name": "Shining Child",
+        "spells": "[\"greater teleport\",\"light\",\"major image\",\"greater dispel magic\",\"mirage arcana\",\"rainbow pattern\",\"spell turning\",\"sunbeam\",\"wall of force\",\"scintillating pattern\",\"screen\",\"symbol of insanity\"]"
+    },
+    {
+        "name": "Sinspawn",
+        "spells": "[]"
+    },
+    {
+        "name": "Siren",
+        "spells": "[\"cause fear\",\"charm person\",\"deep slumber\",\"shout\",\"harpy\\u0027s captivating song\"]"
+    },
+    {
+        "name": "Skulk",
+        "spells": "[]"
+    },
+    {
+        "name": "Slime Mold",
+        "spells": "[]"
+    },
+    {
+        "name": "Slithering Tracker",
+        "spells": "[]"
+    },
+    {
+        "name": "Slurk",
+        "spells": "[]"
+    },
+    {
+        "name": "Emperor Cobra",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Solifugid",
+        "spell": "[]"
+    },
+    {
+        "name": "Soul Eater",
+        "spells": "[]"
+    },
+    {
+        "name": "Soulbound Doll",
+        "spells": "[\"light\",\"mage hand\",\"open/close\",\"prestidigitation\",\"levitate\",\"rage\",\"suggestion\",\"deep slumber\",\"inflict serious wounds\",\"heroism\"]"
+    },
+    {
+        "name": "Giant Black Widow Spider",
+        "spell": "[]"
+    },
+    {
+        "name": "Spriggan",
+        "spells": "[\"flare\",\"scare\",\"shatter\"]"
+    },
+    {
+        "name": "Sylph",
+        "spells": "[\"feather fall\"]"
+    },
+    {
+        "name": "Tendriculos",
+        "spells": "[]"
+    },
+    {
+        "name": "Tenebrous Worm",
+        "spells": "[]"
+    },
+    {
+        "name": "Tentamort",
+        "spells": "[]"
+    },
+    {
+        "name": "Thoqqua",
+        "spells": "[]"
+    },
+    {
+        "name": "Thrasfyr",
+        "spells": "[\"air walk\",\"see invisibility\",\"greater teleport\"]"
+    },
+    {
+        "name": "Thunderbird",
+        "spells": "[\"control weather\"]"
+    },
+    {
+        "name": "Giant Tick",
+        "spell": "[]"
+    },
+    {
+        "name": "Titan, Elysian",
+        "spell": "[\"air walk\",\"mind blank\",\"true seeing\",\"bestow curse\",\"break enchantment\",\"divination\",\"greater dispel magic\",\"sending\",\"greater scrying\",\"heal\",\"mass suggestion\",\"freedom\",\"greater planar ally\",\"meteor swarm\"]"
+    },
+    {
+        "name": "Giant Toad",
+        "spell": "[]"
+    },
+    {
+        "name": "Totenmaske",
+        "spells": "[]"
+    },
+    {
+        "name": "Triton",
+        "spells": "[\"summon nature\\u0027s ally II\"]"
+    },
+    {
+        "name": "Ice Troll",
+        "spell": "[]"
+    },
+    {
+        "name": "Snapping Turtle",
+        "spell": "[]"
+    },
+    {
+        "name": "Twigjack",
+        "spells": "[]"
+    },
+    {
+        "name": "Undine",
+        "spells": "[\"hydraulic push\",\"bless\",\"charm person\",\"divine favor\",\"create water\",\"guidance\",\"stabilize\"]"
+    },
+    {
+        "name": "Urdefhan",
+        "spells": "[\"feather fall\",\"align weapon\",\"death knell\",\"ray of enfeeblement\"]"
+    },
+    {
+        "name": "Vampiric Mist",
+        "spells": "[]"
+    },
+    {
+        "name": "Vemerak",
+        "spells": "[]"
+    },
+    {
+        "name": "Viper Vine",
+        "spells": "[]"
+    },
+    {
+        "name": "Water Orm",
+        "spells": "[]"
+    },
+    {
+        "name": "Wendigo",
+        "spells": "[\"wind walk\",\"control weather\",\"nightmare\"]"
+    },
+    {
+        "name": "Whale",
+        "spell": "[]"
+    },
+    {
+        "name": "Winterwight",
+        "spells": "[\"air walk\",\"cone of cold\",\"dimension door\",\"greater dispel magic\",\"sleet storm\",\"wall of ice\",\"polar ray\",\"control weather\"]"
+    },
+    {
+        "name": "Witchfire",
+        "spells": "[\"dancing lights\",\"disguise self\",\"ghost sound\",\"invisibility\",\"pyrotechnics\",\"ray of enfeeblement\"]"
+    },
+    {
+        "name": "Witchwyrd",
+        "spells": "[\"detect magic\",\"floating disk\",\"mage armor\",\"resist energy\",\"unseen servant\",\"dispel magic\",\"displacement\",\"suggestion\",\"dimension door\",\"resilient sphere\"]"
+    },
+    {
+        "name": "Worm That Walks",
+        "spells": "[\"plane shift\",\"project image\",\"acid fog\",\"disintegrate\",\"summon monster VI\",\"cloudkill\",\"dismissal\",\"shadow evocation\",\"telekinesis\",\"teleport\",\"black tentacles\",\"confusion\",\"dimension door\",\"phantasmal killer\",\"summon monster IV\",\"dispel magic\",\"fly\",\"protection from energy\",\"slow\",\"stinking cloud\",\"summon monster III\",\"acid arrow\",\"detect thoughts\",\"fog cloud\",\"glitterdust\",\"invisibility\",\"summon swarm\",\"charm person\",\"feather fall\",\"grease\",\"obscuring mist\",\"protection from good\",\"reduce person\",\"shield\",\"detect magic\",\"mage hand\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Xacarba",
+        "spells": "[\"arcane sight\",\"detect good\",\"true seeing\",\"detect thoughts\",\"greater teleport\",\"invisibility\",\"suggestion\",\"charm monster\",\"mass suggestion\",\"scrying\",\"symbol of pain\",\"touch of idiocy\",\"vision\",\"greater dispel magic\"]"
+    },
+    {
+        "name": "Xtabay",
+        "spells": "[]"
+    },
+    {
+        "name": "Yrthak",
+        "spells": "[]"
+    },
+    {
+        "name": "Zombie, Juju",
+        "spells": "[]"
+    },
+    {
+        "name": "Adaro",
+        "spells": "[]"
+    },
+    {
+        "name": "Adherer",
+        "spells": "[]"
+    },
+    {
+        "name": "Adlet",
+        "spells": "[\"pass without trace\",\"ray of frost\",\"fog cloud\",\"sleet storm\",\"ice storm\",\"wind walk\"]"
+    },
+    {
+        "name": "Ahuizotl",
+        "spells": "[]"
+    },
+    {
+        "name": "Akhlut",
+        "spells": "[\"control weather\"]"
+    },
+    {
+        "name": "Allip",
+        "spells": "[]"
+    },
+    {
+        "name": "Alraune",
+        "spells": "[\"charm monster\",\"detect thoughts\",\"suggestion\",\"glitterdust\",\"hold monster\",\"commune with nature\",\"mind fog\",\"wall of thorns\"]"
+    },
+    {
+        "name": "Animal Lord",
+        "spells": "[\"charm animal\",\"greater magic fang\",\"cat\\u0027s grace\",\"hold animal\",\"charm animal\",\"longstrider\",\"pass without trace\"]"
+    },
+    {
+        "name": "Annis Hag",
+        "spells": "[\"alter self\",\"fog cloud\"]"
+    },
+    {
+        "name": "Ant Lion, Giant",
+        "spells": "[]"
+    },
+    {
+        "name": "Harbinger Archon",
+        "spell": "[\"detect evil\",\"dancing lights\",\"cure light wounds\",\"protection from evil\",\"commune\"]"
+    },
+    {
+        "name": "Legion Archon",
+        "spell": "[\"detect evil\",\"magic circle against evil\",\"aid\",\"continual flame\",\"greater teleport\",\"message\",\"align weapon\",\"mirror image\",\"versatile weapon\"]"
+    },
+    {
+        "name": "Ascomoid",
+        "spells": "[]"
+    },
+    {
+        "name": "Adhukait",
+        "spell": "[\"feather fall\",\"greater teleport\",\"spider climb\",\"blink\",\"blur\",\"mirror image\",\"spike growth\"]"
+    },
+    {
+        "name": "Aghasura",
+        "spell": "[\"greater teleport\",\"deeper darkness\",\"cloudkill\"]"
+    },
+    {
+        "name": "Asurendra",
+        "spell": "[\"dimensional lock\",\"freedom of movement\",\"tongues\",\"true seeing\",\"death knell\",\"dispel magic, greater\",\"scrying\",\"greater teleport\",\"baleful polymorph\",\"blade barrier\",\"blasphemy\",\"death knell\",\"deeper darkness\",\"demand\",\"power word stun\",\"time stop\"]"
+    },
+    {
+        "name": "Tripurasura",
+        "spell": "[\"detect magic\",\"feather fall\",\"levitate\",\"locate object\",\"spider climb\",\"commune\"]"
+    },
+    {
+        "name": "Upasunda",
+        "spell": "[\"disguise self\",\"greater teleport\",\"feather fall\",\"see invisibility\",\"spider climb\",\"deeper darkness\",\"levitate\",\"rainbow pattern\",\"haste\",\"hold monster\"]"
+    },
+    {
+        "name": "Atomie",
+        "spells": "[\"speak with animals\",\"dancing lights\",\"reduce person\",\"invisibility\",\"shrink item\"]"
+    },
+    {
+        "name": "Axe Beak",
+        "spells": "[]"
+    },
+    {
+        "name": "Azruverda",
+        "spells": "[\"dancing lights\",\"faerie fire\",\"daylight\",\"giant vermin\",\"insect plague\",\"repel vermin\",\"summon swarm\"]"
+    },
+    {
+        "name": "Baku",
+        "spells": "[\"invisibility\",\"lullaby\",\"sleep\",\"deep slumber\",\"dream\",\"ethereal jaunt\",\"modify memory\"]"
+    },
+    {
+        "name": "Bandersnatch",
+        "spells": "[]"
+    },
+    {
+        "name": "Baregara",
+        "spells": "[\"see invisibility\",\"dispel magic\",\"teleport\",\"hold person\",\"unholy blight\"]"
+    },
+    {
+        "name": "Baykok",
+        "spells": "[]"
+    },
+    {
+        "name": "Tempest Behemoth",
+        "spell": "[\"storm of vengeance\"]"
+    },
+    {
+        "name": "Thalassic Behemoth",
+        "spell": "[\"tsunami\"]"
+    },
+    {
+        "name": "Thunder Behemoth",
+        "spell": "[\"earthquake\"]"
+    },
+    {
+        "name": "Berbalang",
+        "spells": "[\"bleed\",\"ghost sound\",\"alter self\",\"charm person\"]"
+    },
+    {
+        "name": "Bhuta",
+        "spells": "[\"animal trance\",\"speak with animals\",\"veil\",\"charm animal\",\"magic jar\"]"
+    },
+    {
+        "name": "Bogeyman",
+        "spells": "[\"detect thoughts\",\"tongues\",\"darkness\",\"gaseous form\",\"ghost sound\",\"invisibility\",\"suggestion\",\"crushing despair\",\"hold person\",\"phantasmal killer\",\"nightmare\"]"
+    },
+    {
+        "name": "Brain Ooze",
+        "spells": "[\"detect thoughts\",\"mage armor\",\"charm monster\",\"dominate animal\",\"dominate person\",\"dispel magic\",\"modify memory\"]"
+    },
+    {
+        "name": "Carbuncle",
+        "spells": "[\"daze\",\"jump\",\"levitate\"]"
+    },
+    {
+        "name": "Carnivorous Crystal",
+        "spells": "[]"
+    },
+    {
+        "name": "Caryatid Column",
+        "spells": "[\"transmute rock to mud\",\"Transmute mud to rock\",\"stone to flesh\",\"damage reduction\",\"immunity\"]"
+    },
+    {
+        "name": "Catfolk",
+        "spells": "[]"
+    },
+    {
+        "name": "Caulborn",
+        "spells": "[\"detect magic\",\"detect thoughts\",\"read magic\",\"charm monster\",\"daze monster\",\"hold monster\",\"hypnotic pattern\",\"vampiric touch\",\"plane shift\"]"
+    },
+    {
+        "name": "Cecaelia",
+        "spells": "[]"
+    },
+    {
+        "name": "Ceratioidi",
+        "spells": "[]"
+    },
+    {
+        "name": "Cerberi",
+        "spells": "[]"
+    },
+    {
+        "name": "Cerebric Fungus",
+        "spells": "[\"detect thoughts\",\"calm emotions\",\"touch of idiocy\"]"
+    },
+    {
+        "name": "Clockwork Goliath",
+        "spell": "[]"
+    },
+    {
+        "name": "Clockwork Leviathan",
+        "spell": "[]"
+    },
+    {
+        "name": "Clockwork Servant",
+        "spell": "[]"
+    },
+    {
+        "name": "Clockwork Soldier",
+        "spell": "[]"
+    },
+    {
+        "name": "Clockwork Spy",
+        "spell": "[]"
+    },
+    {
+        "name": "Cold Rider",
+        "spells": "[\"pass without trace\",\"chill metal\",\"deep slumber\",\"ghost sound\",\"obscuring mist\",\"phantom steed\",\"ray of frost\",\"freedom of movement\",\"ice storm\"]"
+    },
+    {
+        "name": "Shark-Eating Crab",
+        "spell": "[]"
+    },
+    {
+        "name": "Shipwrecker Crab",
+        "spell": "[]"
+    },
+    {
+        "name": "Cyclops, Great",
+        "spells": "[]"
+    },
+    {
+        "name": "Crucidaemon",
+        "spell": "[\"air walk\",\"deathwatch\",\"detect good\",\"true seeing\",\"fear\",\"greater teleport\",\"invisibility\",\"greater glyph of warding\",\"hold monster\",\"insanity\",\"symbol of pain\"]"
+    },
+    {
+        "name": "Vulnudaemon",
+        "spell": "[\"detect good\",\"detect magic\",\"blur\",\"death knell\",\"invisibility\",\"minor image\",\"inflict critical wounds\"]"
+    },
+    {
+        "name": "Deathtrap Ooze",
+        "spells": "[]"
+    },
+    {
+        "name": "Deathweb",
+        "spells": "[]"
+    },
+    {
+        "name": "Demilich",
+        "spells": "[\"true seeing\",\"bestow curse\",\"telekinesis\",\"wail of the banshee\",\"dispel evil\",\"Holy smite\",\"power word kill\",\"shatter\"]"
+    },
+    {
+        "name": "Shaggy Demodand",
+        "spell": "[\"detect good\",\"detect magic\",\"see invisibility\",\"detect thoughts\",\"fear\",\"gaseous form\",\"greater dispel magic\",\"invisibility\",\"magic circle against good\",\"cloudkill\",\"fog cloud\",\"ray of enfeeblement\",\"stinking cloud\",\"blasphemy\",\"chaos hammer\",\"mass charm monster\"]"
+    },
+    {
+        "name": "Slimy Demodand",
+        "spell": "[\"detect good\",\"detect magic\",\"see invisibility\",\"detect thoughts\",\"fear\",\"acid fog\",\"greater dispel magic\"]"
+    },
+    {
+        "name": "Tarry Demodand",
+        "spell": "[\"detect good\",\"detect magic\",\"dispel magic\",\"chaos hammer\"]"
+    },
+    {
+        "name": "Coloxus",
+        "spell": "[\"tongues\",\"contagion\",\"invisibility\",\"suggestion\",\"confusion\",\"haste\",\"invisibility\",\"mind fog\",\"giant vermin\",\"shadow evocation\"]"
+    },
+    {
+        "name": "Incubus",
+        "spell": "[\"tongues\",\"charm person\",\"detect thoughts\",\"greater teleport\",\"suggestion\",\"crushing despair\"]"
+    },
+    {
+        "name": "Schir",
+        "spell": "[\"see invisibility\",\"tongues\",\"arcane lock\",\"expeditious retreat\",\"protection from good\"]"
+    },
+    {
+        "name": "Derhii",
+        "spells": "[]"
+    },
+    {
+        "name": "Devil, Contract",
+        "spells": "[\"tongues\",\"bestow curse\",\"detect thoughts\",\"dimension door\",\"erase\",\"identify\",\"major image\",\"produce flame\",\"sending\",\"arcane eye\",\"break enchantment\",\"greater teleport\",\"hold person\",\"locate creature\",\"mage\\u0027s private sanctum\",\"scorching ray\",\"silence\",\"vision\",\"contact other plane\",\"delayed blast fireball\",\"dismissal\",\"plane shift\",\"symbol of pain\"]"
+    },
+    {
+        "name": "Dimetrodon",
+        "spell": "[]"
+    },
+    {
+        "name": "Iguanodon",
+        "spell": "[]"
+    },
+    {
+        "name": "Pachycephalosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Spinosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Dire Corby",
+        "spells": "[]"
+    },
+    {
+        "name": "Disenchanter",
+        "spells": "[\"detect magic\",\"magic weapon\",\"dimension door\"]"
+    },
+    {
+        "name": "Aghash",
+        "spell": "[\"bestow curse\",\"detect good\",\"detect magic\",\"dimension door\",\"minor image\",\"spectral hand\",\"suggestion\"]"
+    },
+    {
+        "name": "Akvan",
+        "spell": "[\"true seeing\",\"align weapon\",\"detect magic\",\"greater teleport\",\"magic circle against good\",\"telekinesis\",\"blasphemy\",\"disintegrate\",\"dispel magic\",\"forcecage\",\"protection from energy\",\"geas/quest\",\"plane shift\"]"
+    },
+    {
+        "name": "Doru",
+        "spell": "[\"detect good\",\"detect magic\",\"invisibility\",\"charm person\",\"minor image\",\"suggestion\"]"
+    },
+    {
+        "name": "Ghawwas",
+        "spell": "[\"detect good\",\"detect magic\",\"invisibility\",\"charm person\",\"minor image\",\"suggestion\"]"
+    },
+    {
+        "name": "Pairaka",
+        "spell": "[\"detect good\",\"detect magic\",\"charm monster\",\"dimension door\",\"misdirection\",\"insect plague\"]"
+    },
+    {
+        "name": "Sepid",
+        "spell": "[\"comprehend languages\",\"deeper darkness\",\"greater teleport\",\"nondetection\",\"speak with dead\",\"blindness/deafness\",\"fly\",\"ice storm\",\"invisibility\",\"mirror image\",\"scorching ray\",\"touch of idiocy\",\"true strike\",\"animate dead\",\"baleful polymorph\",\"bestow curse\",\"break enchantment\",\"create undead\",\"disintegrate\",\"enervation\",\"fireball\",\"hold monster\",\"true seeing\"]"
+    },
+    {
+        "name": "Shira",
+        "spell": "[\"true seeing\",\"greater teleport\",\"magic circle against good\",\"waves of fatigue\"]"
+    },
+    {
+        "name": "Dragon, Faerie",
+        "spells": "[\"greater invisibility\",\"grease\",\"silent image\",\"sleep\",\"dancing lights\",\"flare\",\"ghost sound\",\"mage hand\",\"open/close\"]"
+    },
+    {
+        "name": "Young Forest Dragon",
+        "spell": "[\"pass without trace\",\"obscuring mist\",\"shield\",\"ghost sound\",\"read magic\",\"resistance\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Adult Forest Dragon",
+        "spell": "[\"blight\",\"entangle\",\"pass without trace\",\"wind wall\",\"stinking cloud\",\"fog cloud\",\"hideous laughter\",\"touch of idiocy\",\"hypnotism\",\"obscuring mist\",\"magic missile\",\"ray of enfeeblement\",\"shield\",\"daze\",\"detect magic\",\"ghost sound\",\"mage hand\",\"read magic\",\"resistance\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Ancient Forest Dragon",
+        "spell": "[\"animate plants\",\"entangle\",\"pass without trace\",\"tree stride\",\"power word blind\",\"waves of exhaustion\",\"acid fog\",\"disintegrate\",\"move earth\",\"baleful polymorph\",\"cloudkill\",\"feeblemind\",\"passwall\",\"bestow curse\",\"charm monster\",\"solid fog\",\"stone shape\",\"lightning bolt\",\"wind wall\",\"slow\",\"stinking cloud\",\"fog cloud\",\"glitterdust\",\"hideous laughter\",\"invisibility\",\"touch of idiocy\",\"hypnotism\",\"obscuring mist\",\"magic missile\",\"ray of enfeeblement\",\"shield\",\"dancing lights\",\"daze\",\"detect magic\",\"ghost sound\",\"mage hand\",\"mending\",\"read magic\",\"resistance\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Young Sea Dragon",
+        "spell": "[\"create water\",\"color spray\",\"sleep\",\"acid splash\",\"mage hand\",\"ray of frost\",\"resistance\"]"
+    },
+    {
+        "name": "Adult Sea Dragon",
+        "spell": "[\"call lightning\",\"create water\",\"hydraulic push\",\"hold person\",\"sleet storm\",\"gust of wind\",\"mirror image\",\"see invisibility\",\"charm person\",\"chill touch\",\"color spray\",\"expeditious retreat\",\"sleep\",\"acid splash\",\"daze\",\"detect magic\",\"mage hand\",\"ray of frost\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Ancient Sea Dragon",
+        "spell": "[\"control water\",\"call lightning\",\"create water\",\"hydraulic push\",\"water walk\",\"insanity\",\"plane shift\",\"chain lightning\",\"freezing sphere\",\"forceful hand\",\"cone of cold\",\"dream\",\"mind fog\",\"persistent image\",\"black tentacles\",\"confusion\",\"lesser geas\",\"rainbow pattern\",\"haste\",\"hold person\",\"lightning bolt\",\"sleet storm\",\"gust of wind\",\"mirror image\",\"obscure object\",\"scare\",\"see invisibility\",\"charm person\",\"chill touch\",\"color spray\",\"expeditious retreat\",\"sleep\",\"acid splash\",\"daze\",\"detect magic\",\"ghost sound\",\"mage hand\",\"message\",\"ray of frost\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Young Sky Dragon",
+        "spell": "[\"detect evil\",\"obscuring mist\",\"shocking grasp\",\"disrupt undead\",\"mending\",\"message\",\"read magic\"]"
+    },
+    {
+        "name": "Adult Sky Dragon",
+        "spell": "[\"detect evil\",\"feather fall\",\"gust of wind\",\"blink\",\"lightning bolt\",\"glitterdust\",\"invisibility\",\"resist energy\",\"endure elements\",\"expeditious retreat\",\"magic missile\",\"obscuring mist\",\"shocking grasp\",\"detect magic\",\"disrupt undead\",\"mage hand\",\"mending\",\"message\",\"ray of frost\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Sky Dragon",
+        "spell": "[\"call lightning storm\",\"control winds\",\"detect evil\",\"feather fall\",\"gust of wind\",\"forcecage\",\"mass hold person\",\"acid fog\",\"chain lightning\",\"legend lore\",\"break enchantment\",\"cloudkill\",\"teleport\",\"dimension door\",\"greater invisibility\",\"ice storm\",\"rainbow pattern\",\"blink\",\"lightning bolt\",\"sleet storm\",\"wind wall\",\"daze monster\",\"fog cloud\",\"glitterdust\",\"invisibility\",\"resist energy\",\"endure elements\",\"expeditious retreat\",\"magic missile\",\"obscuring mist\",\"shocking grasp\",\"dancing lights\",\"daze\",\"detect magic\",\"disrupt undead\",\"mage hand\",\"mending\",\"message\",\"ray of frost\",\"read magic\"]"
+    },
+    {
+        "name": "Young Sovereign Dragon",
+        "spell": "[\"detect good\",\"charm person\",\"color spray\",\"daze\",\"detect magic\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Adult Sovereign Dragon",
+        "spell": "[\"calm emotions\",\"detect good\",\"tongues\",\"lightning bolt\",\"suggestion\",\"detect thoughts\",\"hideous laughter\",\"scorching ray\",\"charm person\",\"chill touch\",\"color spray\",\"endure elements\",\"true strike\",\"daze\",\"detect magic\",\"flare\",\"ghost sound\",\"message\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Ancient Sovereign Dragon",
+        "spell": "[\"calm emotions\",\"detect good\",\"prismatic spray\",\"sympathetic vibration\",\"tongues\",\"greater teleport\",\"limited wish\",\"eyebite\",\"mass suggestion\",\"transformation\",\"break enchantment\",\"dismissal\",\"dominate person\",\"feeblemind\",\"confusion\",\"lesser geas\",\"locate creature\",\"rainbow pattern\",\"gaseous form\",\"hold person\",\"lightning bolt\",\"suggestion\",\"detect thoughts\",\"fog cloud\",\"hideous laughter\",\"scorching ray\",\"touch of idiocy\",\"charm person\",\"chill touch\",\"color spray\",\"endure elements\",\"true strike\",\"daze\",\"detect magic\",\"flare\",\"ghost sound\",\"mage hand\",\"mending\",\"message\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Young Underworld Dragon",
+        "spell": "[\"soften earth and stone\"]"
+    },
+    {
+        "name": "Adult Underworld Dragon",
+        "spell": "[\"soften earth and stone\",\"spike stones\",\"stone shape\",\"flaming sphere\",\"scorching ray\",\"burning hands\",\"cause fear\",\"magic missile\",\"ray of enfeeblement\",\"acid splash\",\"bleed\",\"detect magic\",\"flare\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Ancient Underworld Dragon",
+        "spell": "[\"repel metal or stone\",\"soften earth and stone\",\"spike stones\",\"stone shape\",\"wall of stone\",\"disintegrate\",\"flesh to stone\",\"passwall\",\"transmute rock to mud\",\"waves of fatigue\",\"enervation\",\"shout\",\"solid fog\",\"stone shape\",\"displacement\",\"fireball\",\"protection from good\",\"rage\",\"slow\",\"acid arrow\",\"daze monster\",\"flaming sphere\",\"scorching ray\",\"burning hands\",\"cause fear\",\"magic missile\",\"ray of enfeeblement\",\"true strike\",\"acid splash\",\"bleed\",\"detect magic\",\"flare\",\"ghost sound\",\"mage hand\",\"read magic\",\"resistance\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Dragonne",
+        "spells": "[]"
+    },
+    {
+        "name": "Desert Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Rift Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "River Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Dybbuk",
+        "spells": "[\"detect thoughts\",\"telekinesis\",\"dominate monster\",\"feeblemind\",\"inflict serious wounds\",\"greater heroism\",\"modify memory\",\"tongues\"]"
+    },
+    {
+        "name": "Ecorche",
+        "spells": "[]"
+    },
+    {
+        "name": "Eidolon, Unfettered",
+        "spells": "[]"
+    },
+    {
+        "name": "Faun",
+        "spells": "[\"ghost sound\",\"hideous laughter\",\"sleep\"]"
+    },
+    {
+        "name": "Festrog",
+        "spells": "[]"
+    },
+    {
+        "name": "Fey Creature",
+        "spells": "[\"dancing lights\",\"entangle\",\"faerie fire\",\"glitterdust\",\"Stealth\",\"Stealth\",\"Stealth\",\"polymorph\",\"alter self\",\"Resistance\",\"Resistance\",\"Vanish\",\"invisibility\"]"
+    },
+    {
+        "name": "Flail Snail",
+        "spells": "[]"
+    },
+    {
+        "name": "Flumph",
+        "spells": "[]"
+    },
+    {
+        "name": "Foo Creature",
+        "spells": "[\"protection from evil\",\"protection from evil\",\"Stealth\"]"
+    },
+    {
+        "name": "Garden Ooze",
+        "spells": "[]"
+    },
+    {
+        "name": "Garuda",
+        "spells": "[\"displacement\",\"haste\",\"alter self\",\"protection from arrows\",\"see invisibility\",\"grease\",\"mage armor\",\"shield\",\"shocking grasp\",\"true strike\",\"detect magic\",\"detect poison\",\"light\",\"mage hand\",\"mending\",\"message\",\"prestidigitation\"]"
+    },
+    {
+        "name": "Ghorazagh",
+        "spells": "[]"
+    },
+    {
+        "name": "Ghul",
+        "spells": "[]"
+    },
+    {
+        "name": "Ash Giant",
+        "spell": "[]"
+    },
+    {
+        "name": "Cave Giant",
+        "spell": "[]"
+    },
+    {
+        "name": "Desert Giant",
+        "spell": "[]"
+    },
+    {
+        "name": "Jungle Giant",
+        "spell": "[]"
+    },
+    {
+        "name": "Girtablilu",
+        "spells": "[\"summon nature\\u0027s ally V\"]"
+    },
+    {
+        "name": "Globster",
+        "spells": "[]"
+    },
+    {
+        "name": "Goblin Snake",
+        "spells": "[]"
+    },
+    {
+        "name": "Bone Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Brass Golem",
+        "spell": "[\"see invisibility\"]"
+    },
+    {
+        "name": "Cannon Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Fossil Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Gorynych",
+        "spells": "[\"true seeing\",\"charm person\",\"dancing lights\",\"message\",\"alter self\",\"bestow curse\",\"greater dispel magic\",\"lesser geas\",\"limited wish\",\"mislead\"]"
+    },
+    {
+        "name": "Graveknight",
+        "spells": "[\"Destruction\",\"Mount\",\"phantom steed\",\"phantom steed\"]"
+    },
+    {
+        "name": "Graven Guardian",
+        "spells": "[\"haste\"]"
+    },
+    {
+        "name": "Gremlin, Fuath",
+        "spells": "[\"create water\",\"prestidigitation\",\"sleep\"]"
+    },
+    {
+        "name": "Grodair",
+        "spells": "[\"control water\"]"
+    },
+    {
+        "name": "Grootslang",
+        "spells": "[]"
+    },
+    {
+        "name": "Guecubu",
+        "spells": "[\"stone shape\",\"soften earth and stone\",\"spike growth\",\"spike stones\",\"transmute mud to rock\",\"transmute rock to mud\"]"
+    },
+    {
+        "name": "Hellwasp Swarm",
+        "spells": "[]"
+    },
+    {
+        "name": "Antelope",
+        "spell": "[]"
+    },
+    {
+        "name": "Elk",
+        "spell": "[]"
+    },
+    {
+        "name": "Hodag",
+        "spells": "[]"
+    },
+    {
+        "name": "Hollow Serpent",
+        "spells": "[\"freedom of movement\",\"horrid wilting\",\"waves of exhaustion\"]"
+    },
+    {
+        "name": "Huecuva",
+        "spells": "[]"
+    },
+    {
+        "name": "Humbaba",
+        "spells": "[\"true seeing\",\"greater shout\",\"destruction\",\"earthquake\",\"power word stun\"]"
+    },
+    {
+        "name": "Hungry Fog",
+        "spells": "[]"
+    },
+    {
+        "name": "Iku-Turso",
+        "spells": "[]"
+    },
+    {
+        "name": "Jackalwere",
+        "spells": "[]"
+    },
+    {
+        "name": "Death's Head Jellyfish",
+        "spell": "[]"
+    },
+    {
+        "name": "Sapphire Jellyfish",
+        "spell": "[]"
+    },
+    {
+        "name": "Jorogumo",
+        "spells": "[\"charm person\",\"detect thoughts\",\"bestow curse\",\"suggestion\",\"hold monster\",\"summon nature\\u0027s ally V\"]"
+    },
+    {
+        "name": "Jubjub Bird",
+        "spells": "[]"
+    },
+    {
+        "name": "Kamadan",
+        "spells": "[]"
+    },
+    {
+        "name": "Jinushigami",
+        "spell": "[\"true seeing\",\"speak with animals\",\"speak with plants\",\"stone tell\",\"detect thoughts\",\"greater teleport\",\"stone shape\",\"wood shape\",\"control plants\",\"earthquake\",\"heal\",\"repel metal or stone\",\"summon nature\\u0027s ally IX\",\"true resurrection\"]"
+    },
+    {
+        "name": "Kodama",
+        "spell": "[\"speak with plants\",\"tree shape\",\"charm animal\",\"entangle\",\"tree stride\"]"
+    },
+    {
+        "name": "Shikigami",
+        "spell": "[\"invisibility\",\"statue\",\"hide from animals\",\"purify food and drink\",\"commune with nature\"]"
+    },
+    {
+        "name": "Toshigami",
+        "spell": "[\"deathwatch\",\"fly\",\"foresight\",\"haste\",\"speak with plants\",\"true seeing\",\"cure moderate wounds\",\"tree shape\",\"tree stride\",\"greater restoration\",\"slow\",\"finger of death\",\"time stop\",\"waves of exhaustion\"]"
+    },
+    {
+        "name": "Zuishin",
+        "spell": "[\"detect evil\",\"see invisibility\",\"cure light wounds\",\"dimension door\",\"alarm\",\"breath of life\",\"dispel magic\",\"neutralize poison\",\"remove curse\",\"remove disease\",\"restoration\",\"dispel evil\",\"heal\",\"true seeing\"]"
+    },
+    {
+        "name": "Kappa",
+        "spells": "[]"
+    },
+    {
+        "name": "Kech",
+        "spells": "[\"pass without trace\"]"
+    },
+    {
+        "name": "Kirin",
+        "spells": "[\"detect evil\",\"water walk\",\"gaseous form\",\"gust of wind\",\"break enchantment\",\"create food and water\",\"major creation\",\"wind walk\",\"lightning bolt\",\"lesser restoration\",\"scorching ray\",\"color spray\",\"cure light wounds\",\"disguise self\",\"remove fear\",\"sanctuary\",\"arcane mark\",\"create water\",\"detect magic\",\"guidance\",\"mage hand\",\"mending\",\"stabilize\"]"
+    },
+    {
+        "name": "Kongamato",
+        "spells": "[]"
+    },
+    {
+        "name": "Augur",
+        "spell": "[\"deathwatch\",\"bleed\",\"mage hand\",\"open/close\",\"inflict light wounds\",\"commune\"]"
+    },
+    {
+        "name": "Eremite",
+        "spell": "[\"true seeing\",\"greater teleport\",\"inflict critical wounds\",\"shadow walk\",\"telekinesis\",\"blade barrier\",\"dimensional lock\",\"forcecage\",\"greater\",\"shadow\",\"heal\",\"insanity\",\"mass inflict critical wounds\",\"plane shift\",\"shades\",\"symbol of pain\",\"wall of force\",\"binding\",\"trap the soul\"]"
+    },
+    {
+        "name": "Interlocutor",
+        "spell": "[\"bleed\",\"plane shift\",\"stabilize\",\"cure serious wounds\",\"restoration\",\"breath of life\"]"
+    },
+    {
+        "name": "Lammasu",
+        "spells": "[\"greater invisibility\",\"dimension door\",\"cure serious wounds\",\"searing light\",\"cure moderate wounds\",\"lesser restoration\",\"resist energy\",\"bless\",\"command\",\"cure light wounds\",\"detect evil\",\"divine favor\",\"detect magic\",\"detect poison\",\"guidance\",\"mending\",\"purify food and drink\",\"resistance\",\"stabilize\"]"
+    },
+    {
+        "name": "Fungus Leshy",
+        "spell": "[\"pass without trace\"]"
+    },
+    {
+        "name": "Gourd Leshy",
+        "spell": "[\"pass without trace\"]"
+    },
+    {
+        "name": "Leaf Leshy",
+        "spell": "[\"pass without trace\"]"
+    },
+    {
+        "name": "Seaweed Leshy",
+        "spell": "[\"pass without trace\",\"entangle\"]"
+    },
+    {
+        "name": "Cairn Linnorm",
+        "spell": "[]"
+    },
+    {
+        "name": "Fjord Linnorm",
+        "spell": "[]"
+    },
+    {
+        "name": "Taiga Linnorm",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Gecko",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Chameleon",
+        "spell": "[]"
+    },
+    {
+        "name": "Lukwata",
+        "spells": "[]"
+    },
+    {
+        "name": "Maftet",
+        "spells": "[\"mage armor\",\"magic weapon\",\"cat\\u0027s grace\",\"protection from evil\"]"
+    },
+    {
+        "name": "Magmin",
+        "spells": "[]"
+    },
+    {
+        "name": "Manananggal",
+        "spells": "[\"bleed\",\"dancing lights\",\"touch of fatigue\",\"darkness\",\"deep slumber\",\"fear\"]"
+    },
+    {
+        "name": "Kangaroo",
+        "spell": "[]"
+    },
+    {
+        "name": "Thylacine",
+        "spell": "[]"
+    },
+    {
+        "name": "Archelon",
+        "spell": "[]"
+    },
+    {
+        "name": "Baluchitherium",
+        "spell": "[]"
+    },
+    {
+        "name": "Basilosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Megalania",
+        "spell": "[]"
+    },
+    {
+        "name": "Mobogo",
+        "spells": "[\"pass without trace\",\"speak with animals\",\"charm animal\",\"create water\",\"sound burst\",\"control water\",\"fog cloud\",\"gust of wind\",\"plant growth\",\"quench\",\"soften earth and stone\"]"
+    },
+    {
+        "name": "Moon-Beast",
+        "spells": "[\"air walk\",\"detect thoughts\",\"charm monster\",\"dispel magic\",\"dominate person\",\"shadow conjuration\",\"shadow evocation\",\"veil\",\"confusion\",\"major image\",\"mirage arcana\",\"plane shift\"]"
+    },
+    {
+        "name": "Myceloid",
+        "spells": "[]"
+    },
+    {
+        "name": "LUNAR NAGA",
+        "spell": "[\"see invisibility\",\"arcane eye\",\"charm monster\",\"blink\",\"dispel magic\",\"suggestion\",\"enthrall\",\"hold person\",\"invisibility\",\"scorching ray\",\"charm person\",\"mage armor\",\"magic missile\",\"ray of enfeeblement\",\"shield\",\"daze\",\"detect magic\",\"flare\",\"mage hand\",\"message\",\"open/close\",\"read magic\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Royal Naga",
+        "spell": "[\"protection from energy\",\"suggestion\",\"acid arrow\",\"invisibility\",\"mirror image\",\"expeditious retreat\",\"magic missile\",\"obscuring mist\",\"shield\",\"true strike\",\"acid splash\",\"daze\",\"detect magic\",\"light\",\"mage hand\",\"open/close\",\"read magic\"]"
+    },
+    {
+        "name": "Nephilim",
+        "spells": "[]"
+    },
+    {
+        "name": "Nixie",
+        "spells": "[\"charm person\",\"water breathing\"]"
+    },
+    {
+        "name": "Norn",
+        "spells": "[\"death ward\",\"foresight\",\"greater arcane sight\",\"mind blank\",\"tongues\",\"true seeing\",\"bestow curse\",\"divination\",\"greater dispel magic\",\"geas/quest\",\"vision\",\"wind walk\",\"maze\",\"moment of prescience\",\"phantasmal killer\",\"power word kill\",\"time stop\",\"weird\"]"
+    },
+    {
+        "name": "Nuckelavee",
+        "spells": "[\"control water\",\"diminish plants\",\"obscuring mist\"]"
+    },
+    {
+        "name": "Nue",
+        "spells": "[\"contagion\",\"hold person\",\"nightmare\",\"shout\",\"waves of fatigue\"]"
+    },
+    {
+        "name": "Fire Yai",
+        "spell": "[\"fly\",\"darkness\",\"invisibility\",\"scorching ray\",\"charm monster\",\"deep slumber\",\"fireball\",\"fire shield\",\"wall of fire\",\"incendiary cloud\"]"
+    },
+    {
+        "name": "Ice Yai",
+        "spell": "[\"fly\",\"mage armor\",\"darkness\",\"invisibility\",\"charm monster\",\"cone of cold\",\"deep slumber\",\"gaseous form\",\"polar ray\",\"solid fog\"]"
+    },
+    {
+        "name": "Kuwa",
+        "spell": "[\"darkness\",\"fly\",\"charm person\",\"deep slumber\",\"invisibility\"]"
+    },
+    {
+        "name": "Spirit Oni",
+        "spell": "[\"detect magic\",\"invisibility\",\"mage hand\",\"command\",\"sleep\",\"commune\"]"
+    },
+    {
+        "name": "Void Yai",
+        "spell": "[\"fire shield\",\"fly\",\"true seeing\",\"deeper darkness\",\"gaseous form\",\"greater dispel magic\",\"greater teleport\",\"invisibility\",\"minor creation\",\"vision\",\"cone of cold\",\"demand\",\"dominate person\",\"major creation\",\"mass charm monster\",\"polar ray\",\"teleport object\",\"implosion\",\"plane shift\"]"
+    },
+    {
+        "name": "Water Yai",
+        "spell": "[\"fly\",\"freedom of movement\",\"water walk\",\"invisibility\",\"water breathing\",\"charm monster\",\"cone of cold\",\"control water\",\"polar ray\"]"
+    },
+    {
+        "name": "Giant Owl",
+        "spell": "[]"
+    },
+    {
+        "name": "Great Horned Owl",
+        "spell": "[]"
+    },
+    {
+        "name": "Pale Stranger",
+        "spells": "[]"
+    },
+    {
+        "name": "Rot Grub Swarm",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Rot Grub",
+        "spell": "[]"
+    },
+    {
+        "name": "Penanggalen",
+        "spells": "[\"stinking cloud\",\"glitterdust\",\"hold person\",\"see invisibility\",\"charm person\",\"command\",\"mage armor\",\"obscuring mist\",\"dancing lights\",\"detect magic\",\"read magic\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Peri",
+        "spells": "[\"fire shield\",\"aid\",\"pyrotechnics\",\"scorching ray\",\"fireball\",\"flame strike\",\"wall of fire\"]"
+    },
+    {
+        "name": "Phantom Fungus",
+        "spells": "[]"
+    },
+    {
+        "name": "Plasma Ooze",
+        "spells": "[]"
+    },
+    {
+        "name": "Popobala",
+        "spells": "[\"clairaudience/clairvoyance\",\"ghost sound\",\"ventriloquism\",\"dominate person\",\"eyebite\",\"feeblemind\",\"spell turning\",\"suggestion\",\"telekinesis\",\"animate objects\"]"
+    },
+    {
+        "name": "Porcupine",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Porcupine",
+        "spell": "[]"
+    },
+    {
+        "name": "Pukwudgie",
+        "spells": "[\"deathwatch\",\"detect good\",\"detect magic\",\"command undead\",\"produce flame\",\"animate dead\",\"death knell\",\"invisibility\",\"ray of enfeeblement\",\"scare\",\"nondetection\"]"
+    },
+    {
+        "name": "Dandasuka",
+        "spell": "[\"clairaudience/clairvoyance\",\"charm person\",\"ventriloquism\",\"bleed\",\"daze\",\"detect magic\",\"ghost sound\",\"mage hand\"]"
+    },
+    {
+        "name": "Maharaja",
+        "spell": "[\"comprehend languages\",\"tongues\",\"clairaudience/clairvoyance\",\"dominate monster\",\"weird\",\"greater shadow evocation\",\"mind blank\",\"greater shadow conjuration\",\"mass invisibility\",\"spell turning\",\"greater dispel magic\",\"mass suggestion\",\"true seeing\",\"baleful polymorph\",\"feeblemind\",\"mind fog\",\"charm monster\",\"dimension door\",\"lesser globe of invulnerability\",\"scrying\",\"dispel magic\",\"nondetection\",\"suggestion\",\"vampiric touch\",\"darkness\",\"knock\",\"misdirection\",\"resist energy\",\"see invisibility\",\"charm person\",\"identify\",\"mage armor\",\"magic missile\",\"ventriloquism\",\"arcane mark\",\"bleed\",\"daze\",\"detect magic\",\"ghost sound\",\"mage hand\",\"message\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Marai",
+        "spell": "[\"invisibility\",\"scorching ray\",\"charm person\",\"jump\",\"mage armor\",\"magic missile\",\"bleed\",\"detect magic\",\"ghost sound\",\"mage hand\",\"open/close\",\"read magic\"]"
+    },
+    {
+        "name": "Raktavarna",
+        "spell": "[\"comprehend languages\",\"charm person\",\"suggestion\",\"commune\"]"
+    },
+    {
+        "name": "Tataka",
+        "spell": "[\"air walk\",\"true seeing\",\"heal\",\"flame strike\",\"telekinesis\",\"charm monster\",\"dimension door\",\"freedom of movement\",\"dispel magic\",\"fireball\",\"haste\",\"rage\",\"acid arrow\",\"cure moderate wounds\",\"death knell\",\"invisibility\",\"misdirection\",\"command\",\"mage armor\",\"magic missile\",\"ray of enfeeblement\",\"shield of faith\",\"acid splash\",\"bleed\",\"light\",\"mage hand\",\"mending\",\"message\",\"open/close\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Ratfolk",
+        "spells": "[]"
+    },
+    {
+        "name": "Rusalka",
+        "spells": "[\"blur\",\"water walk\",\"entangle\",\"fog cloud\",\"invisibility\",\"charm monster\",\"control water\",\"summon nature\\u0027s ally VI\"]"
+    },
+    {
+        "name": "Sabosan",
+        "spells": "[]"
+    },
+    {
+        "name": "Sagari",
+        "spells": "[]"
+    },
+    {
+        "name": "Sargassum Fiend",
+        "spells": "[]"
+    },
+    {
+        "name": "Sasquatch",
+        "spells": "[]"
+    },
+    {
+        "name": "Deadfall Scorpion",
+        "spell": "[]"
+    },
+    {
+        "name": "Ghost Scorpion",
+        "spell": "[]"
+    },
+    {
+        "name": "Sea Anemone, Giant",
+        "spells": "[]"
+    },
+    {
+        "name": "Sea Bonze",
+        "spells": "[]"
+    },
+    {
+        "name": "Sea Serpent, Deep",
+        "spells": "[]"
+    },
+    {
+        "name": "Shadow Mastiff",
+        "spells": "[]"
+    },
+    {
+        "name": "Shae",
+        "spells": "[\"blur\",\"shadow evocation\"]"
+    },
+    {
+        "name": "Shedu",
+        "spells": "[\"detect chaos\",\"detect evil\",\"true seeing\",\"cure moderate wounds\",\"dispel magic\",\"magic circle against evil\",\"remove disease\",\"shield other\",\"dismissal\",\"flame strike\",\"restoration\"]"
+    },
+    {
+        "name": "Shinigami",
+        "spells": "[\"detect chaos\",\"detect law\",\"tongues\",\"true seeing\",\"destruction\",\"energy drain\",\"greater scrying\",\"soul bind\"]"
+    },
+    {
+        "name": "Simurgh",
+        "spells": "[\"detect evil\",\"detect magic\",\"tongues\",\"daylight\",\"zone of truth\",\"flame strike\",\"mass cure critical wounds\"]"
+    },
+    {
+        "name": "Siyokoy",
+        "spells": "[]"
+    },
+    {
+        "name": "Skunk",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Skunk",
+        "spell": "[]"
+    },
+    {
+        "name": "Sleipnir",
+        "spells": "[\"air walk\"]"
+    },
+    {
+        "name": "Snake Swarm Snake Swarm, Venomous",
+        "spells": "[]"
+    },
+    {
+        "name": "Androsphinx",
+        "spell": "[\"bestow curse\",\"searing light\",\"speak with dead\",\"bull\\u0027s strength\",\"calm emotions\",\"cure moderate wounds\",\"resist energy\",\"comprehend languages\",\"divine favor\",\"remove fear\",\"shield of faith\",\"detect magic\",\"guidance\",\"purify food and drink\",\"stabilize\"]"
+    },
+    {
+        "name": "Criosphinx",
+        "spell": "[\"speak with animals\"]"
+    },
+    {
+        "name": "Hieracosphinx",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Crab Spider",
+        "spell": "[]"
+    },
+    {
+        "name": "Ogre Spider",
+        "spell": "[]"
+    },
+    {
+        "name": "Spider Eater",
+        "spells": "[\"freedom of movement\"]"
+    },
+    {
+        "name": "Sprite",
+        "spells": "[\"detect evil\",\"detect good\",\"dancing lights\",\"daze\",\"color spray\"]"
+    },
+    {
+        "name": "Stymphalidies",
+        "spells": "[]"
+    },
+    {
+        "name": "Suli",
+        "spells": "[]"
+    },
+    {
+        "name": "Tanuki",
+        "spells": "[\"detect poison\",\"purify food and drink\",\"magic stone\",\"major creation\",\"create food and water\",\"shrink item\",\"veil\"]"
+    },
+    {
+        "name": "Taotieh",
+        "spells": "[]"
+    },
+    {
+        "name": "Tatzlwyrm",
+        "spells": "[]"
+    },
+    {
+        "name": "Terra-Cotta Soldier",
+        "spells": "[]"
+    },
+    {
+        "name": "Thriae Queen",
+        "spell": "[\"detect secret doors\",\"true seeing\",\"daylight\",\"detect thoughts\",\"greater scrying\",\"neutralize poison\",\"remove disease\",\"speak with dead\",\"charm monster\",\"find the path\",\"giant vermin\",\"mass cure critical wounds\",\"poison\",\"restoration\",\"slow\",\"foresight\",\"mass heal\",\"regenerate\"]"
+    },
+    {
+        "name": "Thriae Seer",
+        "spell": "[\"detect secret doors\",\"calm emotions\",\"detect thoughts\",\"sound burst\",\"divination\",\"invisibility purge\",\"locate object\",\"misdirection\",\"symbol of sleep\",\"true seeing\"]"
+    },
+    {
+        "name": "Thriae Soldier",
+        "spell": "[]"
+    },
+    {
+        "name": "Titan, Hekatonkheires",
+        "spells": "[\"air walk\",\"spell turning\",\"true seeing\",\"bestow curse\",\"break enchantment\",\"chain lightning\",\"greater dispel magic\",\"find the path\",\"sending\",\"greater scrying\",\"heal\",\"mass suggestion\",\"dominate monster\",\"greater spell immunity\",\"imprisonment\",\"storm of vengeance\"]"
+    },
+    {
+        "name": "Tojanida",
+        "spells": "[]"
+    },
+    {
+        "name": "Tophet",
+        "spells": "[]"
+    },
+    {
+        "name": "Jotund Troll",
+        "spell": "[]"
+    },
+    {
+        "name": "Moss Troll",
+        "spell": "[]"
+    },
+    {
+        "name": "Trollhound",
+        "spells": "[]"
+    },
+    {
+        "name": "Tupilaq",
+        "spells": "[\"invisibility\"]"
+    },
+    {
+        "name": "Tzitzimitl",
+        "spells": "[\"arcane sight\",\"fly\",\"true seeing\",\"bestow curse\",\"deeper darkness\",\"animate dead\",\"contagion\",\"greater teleport\",\"haste\",\"create undead\",\"temporal stasis\",\"wail of the banshee\"]"
+    },
+    {
+        "name": "Valkyrie",
+        "spells": "[\"deathwatch\",\"tongues\",\"aid\",\"death ward\",\"gentle repose\",\"plane shift\",\"call lightning storm\",\"divine power\",\"geas/quest\",\"breath of life\",\"heal\"]"
+    },
+    {
+        "name": "Vampire, Jiang-Shi",
+        "spells": "[]"
+    },
+    {
+        "name": "Vanara",
+        "spells": "[]"
+    },
+    {
+        "name": "Vishkanya",
+        "spells": "[]"
+    },
+    {
+        "name": "Vodyanoi",
+        "spells": "[\"control water\",\"dancing lights\",\"grease\",\"hydraulic push\",\"water breathing\",\"aqueous orb\",\"neutralize poison\"]"
+    },
+    {
+        "name": "Voonith",
+        "spells": "[]"
+    },
+    {
+        "name": "Vulture",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Vulture",
+        "spell": "[]"
+    },
+    {
+        "name": "Wolf-in-Sheep's-Clothing",
+        "spells": "[]"
+    },
+    {
+        "name": "Yithian",
+        "spells": "[\"astral projection\",\"detect thoughts\",\"hold monster\",\"modify memory\"]"
+    },
+    {
+        "name": "Yuki-Onna",
+        "spells": "[\"blur\",\"cone of cold\",\"eyebite\",\"ice storm\"]"
+    },
+    {
+        "name": "Zoog",
+        "spells": "[\"detect magic\",\"speak with animals\"]"
+    },
+    {
+        "name": "Zuvembie",
+        "spells": "[\"darkness\",\"ghoul touch\",\"scare\",\"animate dead\",\"ray of exhaustion\"]"
+    },
+    {
+        "name": "Abaia",
+        "spells": "[\"arcane sight\",\"speak with animals\",\"control water\",\"hydraulic torrent\",\"rainbow pattern\",\"control weather\"]"
+    },
+    {
+        "name": "Almiraj",
+        "spells": "[]"
+    },
+    {
+        "name": "Alpluachra",
+        "spells": "[]"
+    },
+    {
+        "name": "Ankou",
+        "spells": "[\"deeper darkness\",\"ray of exhaustion\",\"silence\",\"dimensional anchor\",\"greater teleport\",\"true seeing\",\"circle of death\",\"discern location\",\"prismatic spray\"]"
+    },
+    {
+        "name": "Aoandon",
+        "spells": "[\"true seeing\",\"darkness\",\"bestow curse\",\"suffocation\",\"mass pain strike\",\"waves of fatigue\"]"
+    },
+    {
+        "name": "Apocalypse Locust",
+        "spells": "[\"summon swarm\"]"
+    },
+    {
+        "name": "Argus",
+        "spells": "[\"arcane sight\",\"detect scrying\",\"true seeing\",\"arcane eye\",\"clairaudience/clairvoyance\",\"status\",\"true strike\",\"true strike\"]"
+    },
+    {
+        "name": "Astral Leviathan",
+        "spells": "[\"dimension door\"]"
+    },
+    {
+        "name": "Bakekujira",
+        "spells": "[]"
+    },
+    {
+        "name": "Barometz",
+        "spells": "[]"
+    },
+    {
+        "name": "Beheaded",
+        "spells": "[]"
+    },
+    {
+        "name": "Bhole",
+        "spells": "[]"
+    },
+    {
+        "name": "Blood Hag",
+        "spells": "[\"detect good\",\"detect magic\",\"inflict moderate wounds\",\"scorching ray\",\"spider climb\",\"deep slumber\"]"
+    },
+    {
+        "name": "Bodythief",
+        "spells": "[]"
+    },
+    {
+        "name": "Boilborn",
+        "spells": "[]"
+    },
+    {
+        "name": "Brethedan",
+        "spells": "[]"
+    },
+    {
+        "name": "Broken Soul",
+        "spells": "[\"darkness\",\"hallucinatory terrain\",\"knock\",\"light\",\"charm person\",\"speak with animals\",\"speak with plants\",\"crushing despair\",\"terrible remorse\",\"blindness/deafness\",\"piercing shriek\",\"rage\",\"suggestion\",\"cause fear\",\"charm person\",\"ear-piercing scream\",\"lesser confusion\",\"dancing lights\",\"daze\",\"detect magic\",\"ghost sound\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Buggane",
+        "spells": "[]"
+    },
+    {
+        "name": "Cephalophore",
+        "spells": "[]"
+    },
+    {
+        "name": "Chaneque",
+        "spells": "[\"fear\"]"
+    },
+    {
+        "name": "Changeling",
+        "spells": "[\"hypnotism\",\"sleep\",\"daze\",\"light\",\"touch of fatigue\"]"
+    },
+    {
+        "name": "Clockwork Dragon",
+        "spell": "[]"
+    },
+    {
+        "name": "Clockwork Mage",
+        "spell": "[]"
+    },
+    {
+        "name": "Clockwork Steed",
+        "spell": "[]"
+    },
+    {
+        "name": "Flesh Colossus",
+        "spell": "[\"waves of fatigue\",\"circle of death\"]"
+    },
+    {
+        "name": "Iron Colossus",
+        "spell": "[\"wall of fire\",\"delayed blast fireball\"]"
+    },
+    {
+        "name": "Stone Colossus",
+        "spell": "[\"wall of stone\",\"repulsion\"]"
+    },
+    {
+        "name": "Colour Out of Space",
+        "spells": "[]"
+    },
+    {
+        "name": "Comozant Wyrd",
+        "spells": "[\"control weather\"]"
+    },
+    {
+        "name": "Contemplative",
+        "spells": "[\"detect magic\",\"mage hand\",\"read magic\",\"tongues\",\"daze\",\"detect thoughts\",\"ghost sound\",\"magic missile\",\"telekinesis\"]"
+    },
+    {
+        "name": "Dark Caller",
+        "spells": "[\"detect magic\",\"bleed\",\"deeper darkness\",\"shadow\",\"shadow\"]"
+    },
+    {
+        "name": "Dark Dancer",
+        "spells": "[]"
+    },
+    {
+        "name": "Death Dog",
+        "spells": "[]"
+    },
+    {
+        "name": "Dagon",
+        "spell": "[\"detect good\",\"detect law\",\"freedom of movement\",\"speak with animals\",\"true seeing\",\"unholy aura\",\"astral projection\",\"blasphemy\",\"control water\",\"control weather\",\"desecrate\",\"greater dispel magic\",\"greater teleport\",\"shapechange\",\"telekinesis\",\"unhallow\",\"unholy blight\",\"greater dispel magic\",\"insanity\",\"symbol of insanity\",\"vortex\",\"storm of vengeance\",\"time stop\",\"tsunami\"]"
+    },
+    {
+        "name": "Kostchtchie",
+        "spell": "[\"air walk\",\"detect good\",\"detect law\",\"freedom of movement\",\"true seeing\",\"unholy aura\",\"astral projection\",\"blasphemy\",\"cone of cold\",\"desecrate\",\"enlarge person\",\"greater dispel magic\",\"greater teleport\",\"telekinesis\",\"shapechange\",\"unhallow\",\"unholy blight\",\"polar ray\",\"power word stun\",\"symbol of stunning\",\"mass icy prison\",\"polar midnight\",\"time stop\"]"
+    },
+    {
+        "name": "Pazuzu",
+        "spell": "[\"detect good\",\"detect law\",\"freedom of movement\",\"speak with animals\",\"true seeing\",\"unholy aura\",\"astral projection\",\"blasphemy\",\"control winds\",\"desecrate\",\"dominate person\",\"greater dispel magic\",\"greater teleport\",\"shapechange\",\"telekinesis\",\"unhallow\",\"unholy blight\",\"dominate person\",\"symbol of persuasion\",\"sympathy\",\"whirlwind\",\"dominate monster\",\"time stop\",\"wish\"]"
+    },
+    {
+        "name": "Scepter of Shibaxet",
+        "spell": "[\"detect good\",\"detect law\",\"freedom of movement\",\"speak with animals\",\"true seeing\",\"unholy aura\",\"astral projection\",\"blasphemy\",\"control winds\",\"desecrate\",\"dominate person\",\"greater dispel magic\",\"greater teleport\",\"shapechange\",\"telekinesis\",\"unhallow\",\"unholy blight\",\"dominate person\",\"symbol of persuasion\",\"sympathy\",\"whirlwind\",\"dominate monster\",\"time stop\",\"wish\"]"
+    },
+    {
+        "name": "Drowning Devil (Sarglagon)",
+        "spell": "[\"see invisibility\",\"water breathing\",\"control water\",\"curse water\",\"discern lies\",\"greater teleport\",\"hydraulic push\",\"hydraulic torrent\",\"poison\",\"protection from good\",\"freedom of movement\"]"
+    },
+    {
+        "name": "Host Devil (Magaav)",
+        "spell": "[\"detect magic\",\"greater teleport\"]"
+    },
+    {
+        "name": "Nemesis Devil (Advodaza)",
+        "spell": "[\"gaseous form\",\"greater invisibility\",\"greater teleport\",\"scorching ray\",\"whispering wind\",\"blasphemy\",\"dispel magic\",\"ethereal jaunt\",\"harm\",\"heal\",\"hold monster\",\"wall of stone\",\"greater scrying\",\"unhallow\"]"
+    },
+    {
+        "name": "Devilbound Creature",
+        "spells": "[\"fireball\",\"invisibility\",\"blasphemy\",\"acid fog\",\"elemental body III\",\"summon monster VI\",\"cloudkill\",\"elemental body II\",\"summon monster V\",\"teleport\",\"charm monster\",\"confusion\",\"elemental body I\",\"fear\",\"stoneskin\",\"displacement\",\"hold person\",\"protection from energy\",\"stinking cloud\",\"summon monster III\",\"acid arrow\",\"darkness\",\"detect thoughts\",\"glitterdust\",\"scorching ray\",\"web\",\"burning hands\",\"charm person\",\"disguise self\",\"feather fall\",\"mage armor\",\"magic missile\",\"acid splash\",\"arcane mark\",\"detect magic\",\"ghost sound\",\"mage hand\",\"mending\",\"message\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Dimorphodon",
+        "spell": "[]"
+    },
+    {
+        "name": "Diplodocus",
+        "spell": "[]"
+    },
+    {
+        "name": "Styracosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Velociraptor",
+        "spell": "[]"
+    },
+    {
+        "name": "Divine Guardian",
+        "spells": "[\"dimension door\",\"alarm\",\"knock\",\"arcane lock\",\"augury\",\"hold portal\"]"
+    },
+    {
+        "name": "Dorvae",
+        "spells": "[\"see invisibility\",\"detect thoughts\",\"bestow curse\",\"dimension door\",\"feeblemind\",\"lesser geas\"]"
+    },
+    {
+        "name": "Dossenus",
+        "spells": "[]"
+    },
+    {
+        "name": "Young Lunar Dragon",
+        "spell": "[\"dancing lights\",\"comprehend languages\",\"mage armor\",\"detect magic\",\"light\",\"mage hand\",\"read magic\"]"
+    },
+    {
+        "name": "Adult Lunar Dragon",
+        "spell": "[\"dancing lights\",\"life bubble\",\"moonstruck\",\"haste\",\"heroism\",\"blur\",\"hypnotic pattern\",\"mirror image\",\"comprehend languages\",\"mage armor\",\"protection from evil\",\"shocking grasp\",\"vanish\",\"arcane mark\",\"detect magic\",\"light\",\"mage hand\",\"prestidigitation\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Ancient Lunar Dragon",
+        "spell": "[\"dancing lights\",\"life bubble\",\"moonstruck\",\"scrying\",\"moonstruck\",\"greater teleport\",\"waves of exhaustion\",\"cold ice strike\",\"greater dispel magic\",\"true seeing\",\"dominate person\",\"feeblemind\",\"fire snake\",\"mage\\u0027s private sanctum\",\"charm monster\",\"fire shield\",\"greater invisibility\",\"lesser globe of invulnerability\",\"haste\",\"heroism\",\"tongues\",\"minor image\",\"comprehend languages\",\"mage armor\",\"protection from evil\",\"shocking grasp\",\"vanish\",\"detect magic\",\"light\",\"read magic\"]"
+    },
+    {
+        "name": "Young Solar Dragon",
+        "spell": "[\"detect magic\",\"color spray\",\"mage armor\",\"bleed\",\"detect poison\",\"flare\",\"read magic\"]"
+    },
+    {
+        "name": "Adult Solar Dragon",
+        "spell": "[\"cup of dust\",\"detect magic\",\"searing light\",\"dispel magic\",\"tongues\",\"invisibility\",\"resist energy\",\"scorching ray\",\"charm person\",\"color spray\",\"mage armor\",\"magic missile\",\"shield\",\"bleed\",\"detect poison\",\"flare\",\"light\",\"mage hand\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Solar Dragon",
+        "spell": "[\"animate plants\",\"blight\",\"cup of dust\",\"detect magic\",\"major creation\",\"searing light\",\"control weather\",\"plane shift\",\"chain lightning\",\"greater dispel magic\",\"mislead\",\"break enchantment\",\"dismissal\",\"dominate person\",\"wall of force\",\"charm monster\",\"dimension door\",\"fear\",\"greater invisibility\",\"dispel magic\",\"lightning bolt\",\"protection from energy\",\"tongues\",\"continual flame\",\"invisibility\",\"resist energy\",\"scorching ray\",\"see invisibility\",\"charm person\",\"color spray\",\"mage armor\",\"magic missile\",\"shield\",\"detect poison\",\"mage hand\",\"read magic\"]"
+    },
+    {
+        "name": "Young Time Dragon",
+        "spell": "[\"detect magic\",\"share memory\",\"erase\",\"mage armor\",\"mage hand\",\"message\",\"read magic\",\"resistance\"]"
+    },
+    {
+        "name": "Adult Time Dragon",
+        "spell": "[\"detect magic\",\"clairaudience/clairvoyance\",\"share memory\",\"dispel magic\",\"slow\",\"arcane lock\",\"blur\",\"detect thoughts\",\"erase\",\"feather fall\",\"identify\",\"mage armor\",\"magic missile\",\"light\",\"mage hand\",\"message\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Time Dragon",
+        "spell": "[\"detect magic\",\"clairaudience/clairvoyance\",\"legend lore\",\"locate creature\",\"share memory\",\"plane shift\",\"sequester\",\"disintegrate\",\"greater dispel magic\",\"true seeing\",\"dominate person\",\"feeblemind\",\"telepathic bond\",\"teleport\",\"fear\",\"scrying\",\"stone shape\",\"stoneskin\",\"blink\",\"dispel magic\",\"slow\",\"tongues\",\"arcane lock\",\"blindness/deafness\",\"blur\",\"detect thoughts\",\"memory lapse\",\"erase\",\"feather fall\",\"identify\",\"mage armor\",\"magic missile\",\"light\",\"mage hand\",\"message\",\"read magic\"]"
+    },
+    {
+        "name": "Young Void Dragon",
+        "spell": "[\"ray of enfeeblement\",\"hypnotism\",\"mage armor\",\"detect magic\",\"mage hand\",\"message\",\"read magic\"]"
+    },
+    {
+        "name": "Adult Void Dragon",
+        "spell": "[\"blur\",\"ray of enfeeblement\",\"ray of exhaustion\",\"dispel magic\",\"lightning bolt\",\"invisibility\",\"resist energy\",\"touch of idiocy\",\"alarm\",\"cause fear\",\"hypnotism\",\"mage armor\",\"obscuring mist\",\"detect magic\",\"mage hand\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Void Dragon",
+        "spell": "[\"blur\",\"dimension door\",\"ray of enfeeblement\",\"ray of exhaustion\",\"nightmare\",\"prismatic spray\",\"vision\",\"disintegrate\",\"eyebite\",\"shadow walk\",\"break enchantment\",\"dismissal\",\"dominate person\",\"feeblemind\",\"charm monster\",\"confusion\",\"dimensional anchor\",\"scrying\",\"dispel magic\",\"haste\",\"heroism\",\"lightning bolt\",\"invisibility\",\"locate object\",\"resist energy\",\"touch of idiocy\",\"share memory\",\"alarm\",\"cause fear\",\"hypnotism\",\"mage armor\",\"obscuring mist\",\"detect magic\",\"mage hand\",\"read magic\"]"
+    },
+    {
+        "name": "Young Vortex Dragon",
+        "spell": "[\"anticipate peril\",\"feather fall\",\"true strike\",\"arcane mark\",\"detect magic\",\"message\",\"read magic\"]"
+    },
+    {
+        "name": "Adult Vortex Dragon",
+        "spell": "[\"anticipate peril\",\"entropic shield\",\"displacement\",\"protection from energy\",\"mirror image\",\"resist energy\",\"scorching ray\",\"comprehend languages\",\"feather fall\",\"magic missile\",\"obscuring mist\",\"true strike\",\"detect magic\",\"light\",\"message\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Vortex Dragon",
+        "spell": "[\"anticipate peril\",\"dimension door\",\"entropic shield\",\"greater teleport\",\"forcecage\",\"spell turning\",\"forceful hand\",\"shadow walk\",\"true seeing\",\"dream\",\"passwall\",\"telekinesis\",\"wall of force\",\"fear\",\"scrying\",\"solid fog\",\"stoneskin\",\"dispel magic\",\"haste\",\"nondetection\",\"tongues\",\"cat\\u0027s grace\",\"mirror image\",\"obscure object\",\"resist energy\",\"scorching ray\",\"feather fall\",\"identify\",\"mage armor\",\"magic missile\",\"true strike\",\"detect magic\",\"light\",\"message\",\"read magic\"]"
+    },
+    {
+        "name": "Drakainia",
+        "spells": "[\"freedom of movement\",\"true seeing\",\"dimension door\",\"antilife shell\",\"break enchantment\",\"contagion\",\"cure serious wounds\",\"dimension door\",\"antimagic field\",\"destruction\",\"regenerate\"]"
+    },
+    {
+        "name": "Lava Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Mist Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Shadow Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Spire Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Ectoplasmic Creature",
+        "spells": "[\"air walk\"]"
+    },
+    {
+        "name": "Einherji",
+        "spells": "[\"deathwatch\",\"freedom of movement\",\"rage\",\"divine power\",\"heroes\\u0027 feast\"]"
+    },
+    {
+        "name": "Elder Thing",
+        "spells": "[]"
+    },
+    {
+        "name": "Elohim",
+        "spells": "[]"
+    },
+    {
+        "name": "Cernunnos",
+        "spell": "[\"detect evil\",\"detect thoughts\",\"foresight\",\"sanctuary\",\"water walk\",\"augury\",\"bless\",\"calm animals\",\"calm emotions\",\"cure serious wounds\",\"greater teleport\",\"mirror image\",\"divination\",\"mad monkeys\",\"mirror image\",\"neutralize poison\",\"true seeing\",\"wall of force\",\"antimagic field\",\"moment of prescience\"]"
+    },
+    {
+        "name": "Vildeis",
+        "spell": "[\"detect evil\",\"true seeing\",\"command\",\"greater teleport\",\"haste\",\"paladin\\u0027s sacrifice\",\"pain strike\",\"discern location\",\"geas/quest\",\"heal\",\"holy word\",\"mark of justice\",\"mass pain strike\",\"searing light\",\"blaze of glory\",\"break enchantment\",\"death ward\",\"king\\u0027s castle\",\"dispel magic\",\"prayer\",\"righteous vigor\",\"bull\\u0027s strength\",\"corruption resistance\",\"litany of warding\",\"remove paralysis\",\"shield other\",\"divine favor\",\"hero\\u0027s defiance\",\"lesser restoration\"]"
+    },
+    {
+        "name": "Cicatrix",
+        "spell": "[\"detect evil\",\"true seeing\",\"command\",\"greater teleport\",\"haste\",\"paladin\\u0027s sacrifice\",\"pain strike\",\"discern location\",\"geas/quest\",\"heal\",\"holy word\",\"mark of justice\",\"mass pain strike\",\"searing light\",\"blaze of glory\",\"break enchantment\",\"death ward\",\"king\\u0027s castle\",\"dispel magic\",\"prayer\",\"righteous vigor\",\"bull\\u0027s strength\",\"corruption resistance\",\"litany of warding\",\"remove paralysis\",\"shield other\",\"divine favor\",\"hero\\u0027s defiance\",\"lesser restoration\"]"
+    },
+    {
+        "name": "Erlking",
+        "spells": "[\"blur\",\"haste\",\"protection from evil\",\"protection from law\",\"speak with animals\",\"speak with plants\",\"whispering wind\",\"animate plants\",\"black tentacles\",\"cure critical wounds\",\"haste\",\"ironwood\",\"move earth\",\"plant growth\",\"summon nature\\u0027s ally VI\",\"tree stride\",\"finger of death\",\"repel metal or stone\",\"summon nature\\u0027s ally IX\"]"
+    },
+    {
+        "name": "Fachen",
+        "spells": "[]"
+    },
+    {
+        "name": "Familiars",
+        "spells": "[]"
+    },
+    {
+        "name": "Festering Spirit",
+        "spells": "[]"
+    },
+    {
+        "name": "Giant Flea",
+        "spell": "[]"
+    },
+    {
+        "name": "Mammoth Flea",
+        "spell": "[]"
+    },
+    {
+        "name": "Fleshdreg",
+        "spells": "[]"
+    },
+    {
+        "name": "Ghonhatine",
+        "spell": "[]"
+    },
+    {
+        "name": "Grothlut",
+        "spell": "[]"
+    },
+    {
+        "name": "Halsora",
+        "spell": "[]"
+    },
+    {
+        "name": "Irnakurse",
+        "spell": "[]"
+    },
+    {
+        "name": "Flying Polyp",
+        "spells": "[\"alter winds\",\"gust of wind\",\"whispering wind\",\"wind walk\",\"control winds\",\"river of wind\",\"wind wall\",\"control weather\",\"whirlwind\"]"
+    },
+    {
+        "name": "Formian Myrmarch",
+        "spell": "[\"charm monster\",\"clairaudience/clairvoyance\",\"detect thoughts\",\"hold monster\",\"feeblemind\"]"
+    },
+    {
+        "name": "Formian Queen",
+        "spell": "[\"magic jar\",\"magic missile\",\"invisibility\",\"feeblemind\",\"commune with nature\",\"cone of cold\",\"permanent image\",\"magic missile\",\"repulsion\",\"teleport\"]"
+    },
+    {
+        "name": "Formian Taskmaster",
+        "spell": "[\"detect thoughts\",\"sending\",\"confusion\",\"good hope\",\"heroism\",\"invisibility\",\"sound burst\",\"suggestion\",\"charm person\",\"comprehend languages\",\"cure light wounds\",\"hideous laughter\",\"silent image\",\"dancing lights\",\"daze\",\"detect magic\",\"mending\",\"message\",\"prestidigitation\"]"
+    },
+    {
+        "name": "Formian Warrior",
+        "spell": "[]"
+    },
+    {
+        "name": "Formian Worker",
+        "spell": "[]"
+    },
+    {
+        "name": "Fossegrim",
+        "spells": "[\"water walk\",\"hydraulic torrent\"]"
+    },
+    {
+        "name": "Freezing Flow",
+        "spells": "[]"
+    },
+    {
+        "name": "Fungal Creature",
+        "spells": "[\"dimension door\",\"command plants\",\"call lightning\",\"speak with plants\",\"spike growth\",\"chill metal\",\"flame blade\",\"resist energy\",\"summon swarm\",\"entangle\",\"faerie fire\",\"obscuring mist\",\"pass without trace\",\"produce flame\",\"detect magic\",\"guidance\",\"resistance\",\"virtue\"]"
+    },
+    {
+        "name": "Gaki",
+        "spells": "[\"detect evil\",\"invisibility\",\"disguise self\"]"
+    },
+    {
+        "name": "Gallowdead",
+        "spells": "[]"
+    },
+    {
+        "name": "Galvo",
+        "spells": "[]"
+    },
+    {
+        "name": "Gashadokuro",
+        "spells": "[]"
+    },
+    {
+        "name": "Gathlain",
+        "spells": "[\"entangle\",\"feather step\",\"color spray\",\"magic missile\",\"dancing lights\",\"daze\",\"ghost sound\",\"ray of frost\"]"
+    },
+    {
+        "name": "Gearghost",
+        "spells": "[\"detect magic\",\"mending\",\"telekinesis\",\"make whole\"]"
+    },
+    {
+        "name": "Geist",
+        "spells": "[]"
+    },
+    {
+        "name": "Gholdako",
+        "spells": "[]"
+    },
+    {
+        "name": "Cliff Giant",
+        "spell": "[\"detect poison\",\"know direction\",\"animal messenger\",\"cure moderate wounds\",\"detect animals or plants\",\"speak with animals\",\"stone shape\",\"commune with nature\"]"
+    },
+    {
+        "name": "Ocean Giant",
+        "spell": "[\"freedom of movement\",\"aqueous orb\",\"control winds\",\"shout\",\"summon nature\\u0027s ally VII\",\"water breathing\",\"vortex\"]"
+    },
+    {
+        "name": "River Giant",
+        "spell": "[]"
+    },
+    {
+        "name": "Slag Giant",
+        "spell": "[]"
+    },
+    {
+        "name": "Blood Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Coral Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Graeae",
+        "spells": "[\"arcane sight\",\"fly\",\"undetectable alignment\",\"ill omen\",\"augury\",\"enthrall\",\"feast of ashes\",\"ray of exhaustion\"]"
+    },
+    {
+        "name": "Bokrug",
+        "spell": "[\"air walk\",\"cloudkill\",\"dimension door\",\"dream\",\"greater dispel magic\",\"hallucinatory terrain\",\"nightmare\",\"plane shift\",\"transmute rock to mud\",\"wind walk\",\"demand\",\"feeblemind\",\"horrid wilting\",\"control weather\",\"symbol of insanity\",\"tsunami\"]"
+    },
+    {
+        "name": "Cthulhu",
+        "spell": "[\"freedom of movement\",\"true seeing\",\"astral projection\",\"control weather\",\"dream\",\"greater dispel magic\",\"greater teleport\",\"insanity\",\"nightmare\",\"sending\",\"antipathy\",\"demand\",\"feeblemind\",\"gate\",\"weird\",\"implosion\",\"symbol of insanity\",\"wish\"]"
+    },
+    {
+        "name": "Hastur",
+        "spell": "[\"air walk\",\"freedom of movement\",\"tongues\",\"true seeing\",\"astral projection\",\"dimension door\",\"dream\",\"enervation\",\"greater dispel magic\",\"insanity\",\"mirage arcana\",\"nightmare\",\"sending\",\"veil\",\"wish\",\"demand\",\"feeblemind\",\"interplanetary teleport\",\"mass suggestion\",\"project image\",\"symbol of death\",\"symbol of fear\",\"symbol of insanity\",\"symbol of pain\",\"symbol of persuasion\",\"symbol of strife\",\"symbol of stunning\",\"symbol of weakness\"]"
+    },
+    {
+        "name": "Grimple",
+        "spell": "[\"prestidigitation\",\"grease\",\"mage hand\",\"open/close\"]"
+    },
+    {
+        "name": "Haniver",
+        "spell": "[]"
+    },
+    {
+        "name": "Monaciello",
+        "spell": "[\"prestidigitation\",\"putrefy food and drink\",\"ghost sound\",\"silent image\",\"glitterdust\"]"
+    },
+    {
+        "name": "Grendel",
+        "spells": "[]"
+    },
+    {
+        "name": "Guardian Dragon",
+        "spells": "[\"detect magic\",\"detect scrying\",\"discern location\",\"false vision\",\"fog cloud\",\"greater dispel magic\",\"locate object\",\"major curse\",\"persuasive goad\",\"geas/quest\",\"leashed shackles\",\"maze\",\"plant growth\",\"spell turning\",\"wall of thorns\",\"breath of life\",\"dimensional lock\",\"limited wish\",\"mage\\u0027s disjunction\",\"plane shift\",\"word of recall\"]"
+    },
+    {
+        "name": "Hamadryad",
+        "spells": "[\"speak with animals\",\"speak with plants\",\"entangle\",\"hold animal\",\"rusting grasp\",\"tree shape\",\"wood shape\",\"charm monster\",\"charm person\",\"confusion\",\"deep slumber\",\"neutralize poison\",\"sending\",\"suggestion\",\"tree stride\",\"call lightning storm\",\"changestaff\",\"greater heroism\",\"heal\",\"liveoak\",\"summon nature\\u0027s ally VIII\"]"
+    },
+    {
+        "name": "Harionago",
+        "spells": "[\"feather fall\",\"levitate\",\"ray of enfeeblement\",\"unnatural lust\",\"charm monster\",\"vampiric touch\"]"
+    },
+    {
+        "name": "Giraffe",
+        "spell": "[]"
+    },
+    {
+        "name": "Stag",
+        "spell": "[]"
+    },
+    {
+        "name": "Huldra",
+        "spells": "[\"detect snares and pits\",\"endure elements\",\"pass without trace\",\"charm person\",\"daze monster\",\"wood shape\",\"deep slumber\"]"
+    },
+    {
+        "name": "Hungry Flesh",
+        "spells": "[]"
+    },
+    {
+        "name": "Hyakume",
+        "spells": "[\"share memory\",\"divination\",\"cold ice strike\",\"discordant blast\",\"sonic thrust\"]"
+    },
+    {
+        "name": "Hypnalis",
+        "spells": "[]"
+    },
+    {
+        "name": "Ijiraq",
+        "spells": "[\"dimension door\",\"fly\",\"hallucinatory terrain\",\"baleful polymorph\",\"control winds\",\"cure critical wounds\",\"ice storm\",\"sleet storm\",\"summon nature\\u0027s ally IV\"]"
+    },
+    {
+        "name": "Immortal Ichor",
+        "spells": "[\"charm person\",\"detect thoughts\",\"summon swarm\",\"telekinesis\",\"charm monster\",\"charm person\",\"control undead\",\"creeping doom\",\"insect plague\",\"mind fog\",\"nightmare\"]"
+    },
+    {
+        "name": "Incutilis",
+        "spells": "[]"
+    },
+    {
+        "name": "Irminsul",
+        "spells": "[\"see alignment\",\"telekinesis\"]"
+    },
+    {
+        "name": "Isitoq",
+        "spells": "[]"
+    },
+    {
+        "name": "Jack-o'-Lantern",
+        "spells": "[]"
+    },
+    {
+        "name": "Jinmenju",
+        "spells": "[\"share memory\",\"sculpt sound\",\"shout\"]"
+    },
+    {
+        "name": "Juggernaut",
+        "spells": "[\"enervation\"]"
+    },
+    {
+        "name": "Julunggali",
+        "spells": "[\"foresight\",\"bestow curse\",\"bless\",\"control water\",\"create water\",\"move earth\",\"neutralize poison\",\"prayer\",\"water breathing\",\"antipathy\",\"baleful polymorph\",\"control weather\",\"greater teleport\",\"haste\",\"heal\",\"polymorph\",\"prismatic wall\",\"raise dead\",\"slow\"]"
+    },
+    {
+        "name": "Agyra",
+        "spell": "[]"
+    },
+    {
+        "name": "Bezravnis",
+        "spell": "[]"
+    },
+    {
+        "name": "Mogaru",
+        "spell": "[]"
+    },
+    {
+        "name": "Kapre",
+        "spells": "[]"
+    },
+    {
+        "name": "Karkinoi",
+        "spells": "[]"
+    },
+    {
+        "name": "Kasatha",
+        "spells": "[]"
+    },
+    {
+        "name": "Kitsune",
+        "spells": "[\"charm person\",\"sleep\",\"daze\",\"detect magic\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Ostiarius",
+        "spell": "[\"shield\",\"calm emotions\",\"darkness\",\"enthrall\",\"major image\",\"crushing despair\",\"shadow walk\",\"silence\",\"plane shift\",\"shout\"]"
+    },
+    {
+        "name": "Sacristan",
+        "spell": "[]"
+    },
+    {
+        "name": "Lampad",
+        "spells": "[\"meld into stone\",\"stone tell\",\"stone shape\",\"spider climb\",\"stone call\",\"cure light wounds\",\"faerie fire\",\"magic stone\",\"detect magic\",\"detect poison\",\"light\",\"mending\"]"
+    },
+    {
+        "name": "Leaf Ray",
+        "spells": "[]"
+    },
+    {
+        "name": "Leanan Sidhe",
+        "spells": "[\"calm emotions\",\"crushing despair\",\"dimension door\",\"animal trance\",\"charm person\"]"
+    },
+    {
+        "name": "Living Topiary",
+        "spells": "[]"
+    },
+    {
+        "name": "Living Wall",
+        "spells": "[]"
+    },
+    {
+        "name": "Giant Locust",
+        "spell": "[]"
+    },
+    {
+        "name": "Locust Swarm",
+        "spell": "[]"
+    },
+    {
+        "name": "Lorelei",
+        "spells": "[\"ghost sound\",\"speak with dead\",\"ventriloquism\",\"whispering wind\",\"command undead\",\"fog cloud\"]"
+    },
+    {
+        "name": "Lunarma",
+        "spells": "[]"
+    },
+    {
+        "name": "Executioner's Hood",
+        "spell": "[]"
+    },
+    {
+        "name": "Lurker Above",
+        "spell": "[]"
+    },
+    {
+        "name": "Trapper",
+        "spell": "[]"
+    },
+    {
+        "name": "Werebat (Human Form)",
+        "spell": "[]"
+    },
+    {
+        "name": "Wereshark (Human Form)",
+        "spell": "[]"
+    },
+    {
+        "name": "Maenad",
+        "spells": "[\"murderous command\",\"polypurpose panacea\",\"rage\",\"bull\\u0027s strength\",\"charm monster\",\"mad hallucination\",\"vampiric touch\"]"
+    },
+    {
+        "name": "Manitou",
+        "spells": "[\"detect evil\",\"freedom of movement\",\"greater invisibility\",\"pass without trace\",\"speak with animals\",\"true seeing\",\"heal\",\"neutralize poison\",\"restoration\",\"summon nature\\u0027s ally VIII\",\"earthquake\"]"
+    },
+    {
+        "name": "Mi-Go",
+        "spells": "[]"
+    },
+    {
+        "name": "Mindslaver Mold",
+        "spells": "[]"
+    },
+    {
+        "name": "Mudlord",
+        "spells": "[]"
+    },
+    {
+        "name": "Mummified Creature",
+        "spells": "[\"comprehend languages\",\"detect magic\",\"read magic\",\"see invisibility\",\"clairaudience/clairvoyance\",\"dispel magic\",\"legend lore\",\"locate object\",\"remove curse\",\"symbol of fear\",\"symbol of pain\",\"symbol of persuasion\",\"symbol of sleep\",\"symbol of stunning\"]"
+    },
+    {
+        "name": "Myrmecoleon",
+        "spells": "[]"
+    },
+    {
+        "name": "Nagaji",
+        "spells": "[]"
+    },
+    {
+        "name": "Necrocraft",
+        "spells": "[\"Vision\",\"Poison\"]"
+    },
+    {
+        "name": "Nependis",
+        "spells": "[]"
+    },
+    {
+        "name": "Nightgaunt",
+        "spells": "[]"
+    },
+    {
+        "name": "Nightmare Creature",
+        "spells": "[\"protection from good\",\"detect thoughts\",\"dream\",\"nightmare\",\"suggestion\",\"shadow walk\"]"
+    },
+    {
+        "name": "Ningyo",
+        "spells": "[]"
+    },
+    {
+        "name": "Nycar",
+        "spells": "[]"
+    },
+    {
+        "name": "Oceanid",
+        "spells": "[\"speak with animals\",\"control water\",\"create water\",\"purify food and drink\",\"water breathing\",\"control winds\",\"summon nature\\u0027s ally V\",\"control weather\"]"
+    },
+    {
+        "name": "Oma",
+        "spells": "[]"
+    },
+    {
+        "name": "Owb",
+        "spells": "[\"blur\",\"deeper darkness\",\"detect thoughts\",\"shadow step\",\"plane shift\"]"
+    },
+    {
+        "name": "Pard",
+        "spells": "[]"
+    },
+    {
+        "name": "Peluda",
+        "spells": "[]"
+    },
+    {
+        "name": "Pickled Punk",
+        "spells": "[]"
+    },
+    {
+        "name": "Pipefox",
+        "spells": "[\"comprehend languages\",\"augury\",\"vanish\",\"detect thoughts\",\"divination\",\"greater invisibility\"]"
+    },
+    {
+        "name": "Pooka",
+        "spells": "[\"detect magic\",\"invisibility\",\"minor image\",\"sleep\",\"suggestion\"]"
+    },
+    {
+        "name": "Catrina",
+        "spell": "[\"dancing lights\",\"teleport\",\"invisibility\",\"speak with dead\"]"
+    },
+    {
+        "name": "Morrigna",
+        "spell": "[\"detect undead\",\"stone tell\",\"speak with dead\",\"cure critical wounds\",\"divination\",\"freedom of movement\",\"spell immunity\",\"blood biography\",\"dimensional anchor\",\"dispel magic\",\"halt undead\",\"confess\",\"detect thoughts\",\"hold person\",\"invisibility\",\"see invisibility\",\"bane\",\"command\",\"comprehend languages\",\"expeditious retreat\",\"sanctuary\",\"wrath\",\"bleed\",\"detect magic\",\"disrupt undead\",\"read magic\",\"sift\",\"stabilize\"]"
+    },
+    {
+        "name": "Nosoi",
+        "spell": "[\"invisibility\",\"speak with dead\",\"hide from undead\",\"sound burst\"]"
+    },
+    {
+        "name": "Vanth",
+        "spell": "[\"deathwatch\",\"greater teleport\",\"invisibility\",\"bestow curse\",\"locate creature\",\"searing light\"]"
+    },
+    {
+        "name": "Yamaraj",
+        "spell": "[\"detect thoughts\",\"mage armor\",\"true seeing\",\"greater dispel magic\",\"greater teleport\",\"reincarnate\",\"rest eternal\",\"scrying\",\"share language\",\"telekinesis\",\"tongues\",\"circle of death\",\"forcecage\",\"miracle\",\"lightning bolt\",\"undeath to death\",\"soul bind\",\"wail of the banshee\"]"
+    },
+    {
+        "name": "Qallupilluk",
+        "spells": "[\"water breathing\",\"charm animal\",\"charm person\",\"chill metal\",\"sleet storm\",\"divination\"]"
+    },
+    {
+        "name": "Rat King",
+        "spells": "[]"
+    },
+    {
+        "name": "Ratling",
+        "spells": "[\"detect magic\",\"read magic\",\"speak with animals\",\"spider climb\",\"tongues\",\"cause fear\",\"dimension door\",\"invisibility\",\"summon swarm\",\"commune\"]"
+    },
+    {
+        "name": "Rokurokubi",
+        "spells": "[\"permanent image\",\"feeblemind\",\"nightmare\",\"charm monster\",\"confusion\",\"locate creature\",\"dispel magic\",\"fly\",\"keen edge\",\"wind wall\",\"ghoul touch\",\"invisibility\",\"knock\",\"touch of idiocy\",\"charm person\",\"disguise self\",\"obscuring mist\",\"shocking grasp\",\"sleep\",\"arcane mark\",\"detect magic\",\"detect poison\",\"ghost sound\",\"mage hand\",\"message\",\"open/close\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Rukh",
+        "spells": "[]"
+    },
+    {
+        "name": "Saguaroi",
+        "spells": "[]"
+    },
+    {
+        "name": "Samsaran",
+        "spells": "[\"comprehend languages\",\"deathwatch\",\"stabilize\",\"command\",\"cure light wounds\",\"sanctuary\",\"ghost sound\",\"guidance\",\"light\",\"mage hand\",\"resistance\"]"
+    },
+    {
+        "name": "Sayona",
+        "spells": "[\"command undead\",\"dominate person\",\"fog cloud\",\"gaseous form\",\"invisibility\"]"
+    },
+    {
+        "name": "Giant Emperor Scorpion",
+        "spell": "[]"
+    },
+    {
+        "name": "Greensting Scorpion",
+        "spell": "[]"
+    },
+    {
+        "name": "Sea Cat",
+        "spells": "[]"
+    },
+    {
+        "name": "Giant Seahorse",
+        "spell": "[]"
+    },
+    {
+        "name": "Killer Seahorse",
+        "spell": "[]"
+    },
+    {
+        "name": "Seaweed Siren",
+        "spells": "[\"shatter\",\"charm monster\",\"confusion\",\"bestow curse\"]"
+    },
+    {
+        "name": "Selkie",
+        "spells": "[]"
+    },
+    {
+        "name": "Seps Seps, Juvenile",
+        "spells": "[]"
+    },
+    {
+        "name": "Shadow Creature",
+        "spells": "[]"
+    },
+    {
+        "name": "Shard Slag",
+        "spells": "[]"
+    },
+    {
+        "name": "Bull Shark",
+        "spell": "[]"
+    },
+    {
+        "name": "Great White Shark",
+        "spell": "[]"
+    },
+    {
+        "name": "Shobhad",
+        "spells": "[]"
+    },
+    {
+        "name": "Shredskin",
+        "spells": "[\"detect undead\",\"command undead\"]"
+    },
+    {
+        "name": "Shriezyx",
+        "spells": "[]"
+    },
+    {
+        "name": "Shulsaga",
+        "spells": "[\"floating disk\",\"shield\",\"spiritual weapon\"]"
+    },
+    {
+        "name": "Skinstitch",
+        "spells": "[]"
+    },
+    {
+        "name": "Snallygaster",
+        "spells": "[]"
+    },
+    {
+        "name": "Soulbound Mannequin",
+        "spells": "[\"detect poison\",\"light\",\"mage hand\",\"open/close\",\"prestidigitation\",\"alarm\",\"feather fall\",\"hold portal\",\"disguise self\",\"levitate\"]"
+    },
+    {
+        "name": "Soulbound Shell",
+        "spells": "[\"beast shape IV\",\"disintegrate\",\"cloudkill\",\"dominate person\",\"passwall\",\"black tentacles\",\"fire shield\",\"shout\",\"fly\",\"lightning bolt\",\"stinking cloud\",\"false life\",\"glitterdust\",\"hideous laughter\",\"make whole\",\"mirror image\",\"charm person\",\"expeditious retreat\",\"grease\",\"mage armor\",\"unseen servant\",\"acid splash\",\"detect magic\",\"mage hand\",\"read magic\"]"
+    },
+    {
+        "name": "Soulsliver",
+        "spells": "[\"mage hand\",\"open/close\",\"silent image\",\"mirror image\"]"
+    },
+    {
+        "name": "Spawn of Yog-Sothoth",
+        "spells": "[]"
+    },
+    {
+        "name": "Goliath Spider",
+        "spell": "[]"
+    },
+    {
+        "name": "Scarlet Spider",
+        "spell": "[]"
+    },
+    {
+        "name": "Spring-Heeled Jack",
+        "spells": "[\"feather fall\",\"pass without trace\",\"passwall\"]"
+    },
+    {
+        "name": "Star-Spawn of Cthulhu",
+        "spells": "[\"mind blank\",\"dream\",\"insanity\",\"nightmare\",\"sending\",\"demand\",\"gate\"]"
+    },
+    {
+        "name": "Svartalfar",
+        "spells": "[\"chill touch\",\"corrosive touch\",\"frigid touch\",\"shadow step\",\"vanish\",\"force punch\",\"greater invisibility\",\"ray of exhaustion\"]"
+    },
+    {
+        "name": "Swan, Trumpeter",
+        "spells": "[]"
+    },
+    {
+        "name": "Swan Maiden",
+        "spells": "[\"dancing lights\",\"confusion\",\"deep slumber\",\"entangle\",\"glitterdust\",\"major image\"]"
+    },
+    {
+        "name": "Taniniver",
+        "spells": "[\"deathwatch\",\"animate dead\",\"inflict serious wounds\",\"eyebite\",\"horrid wilting\",\"symbol of pain\"]"
+    },
+    {
+        "name": "Tiberolith",
+        "spells": "[]"
+    },
+    {
+        "name": "Tikbalang",
+        "spells": "[\"spider climb\",\"ventriloquism\",\"invisibility\",\"major image\",\"fly\",\"mirage arcana\",\"maze\"]"
+    },
+    {
+        "name": "Tooth Fairy",
+        "spells": "[\"mage hand\",\"open/close\",\"invisibility\",\"sleep\"]"
+    },
+    {
+        "name": "Giant tortoise",
+        "spell": "[]"
+    },
+    {
+        "name": "Immense Tortoise",
+        "spell": "[]"
+    },
+    {
+        "name": "Trox",
+        "spells": "[]"
+    },
+    {
+        "name": "Tunche",
+        "spells": "[\"speak with plants\",\"tongues\",\"burst of nettles\",\"entangle\",\"tree shape\",\"tree stride\",\"ventriloquism\",\"warp wood\",\"diminish plants\",\"plant growth\",\"wall of thorns\",\"control plants\",\"move earth\",\"true seeing\"]"
+    },
+    {
+        "name": "Tyrant Jelly",
+        "spells": "[\"charm monster\",\"giant vermin\",\"hold monster\",\"dominate monster\"]"
+    },
+    {
+        "name": "Udaeus",
+        "spells": "[\"barkskin\",\"true strike\"]"
+    },
+    {
+        "name": "Vampire, Nosferatu",
+        "spells": "[]"
+    },
+    {
+        "name": "Vouivre",
+        "spells": "[\"charm person\",\"comprehend languages\",\"ghost sound\",\"speak with animals\",\"charm animal\",\"shout\",\"song of discord\"]"
+    },
+    {
+        "name": "Walrus",
+        "spell": "[]"
+    },
+    {
+        "name": "Emperor Walrus",
+        "spell": "[]"
+    },
+    {
+        "name": "Warsworn",
+        "spells": "[\"animate objects\",\"telekinesis\"]"
+    },
+    {
+        "name": "Giant Water Strider",
+        "spell": "[]"
+    },
+    {
+        "name": "Nymph Water Strider",
+        "spell": "[]"
+    },
+    {
+        "name": "Wayang",
+        "spells": "[\"ghost sound\",\"pass without trace\",\"ventriloquism\",\"hypnotism\",\"silent image\",\"vanish\",\"detect magic\",\"ghost sound\",\"read magic\"]"
+    },
+    {
+        "name": "Dire Weasel",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Weasel",
+        "spell": "[]"
+    },
+    {
+        "name": "Weedwhip",
+        "spells": "[]"
+    },
+    {
+        "name": "Wickerman",
+        "spells": "[]"
+    },
+    {
+        "name": "Wikkawak",
+        "spells": "[\"quench\"]"
+    },
+    {
+        "name": "Winter Hag",
+        "spells": "[\"pass without trace\",\"see invisibility\",\"chill metal\",\"detect magic\",\"fog cloud\",\"frostbite\",\"whispering wind\",\"alter self\",\"charm monster\",\"invisibility\",\"major image\",\"cone of cold\",\"control weather\",\"wall of ice\",\"waves of fatigue\"]"
+    },
+    {
+        "name": "Wyrwood",
+        "spells": "[]"
+    },
+    {
+        "name": "Wyvaran",
+        "spells": "[\"cause fear\",\"shield of faith\",\"acid splash\",\"daze\",\"disrupt undead\",\"guidance\"]"
+    },
+    {
+        "name": "Xanthos",
+        "spells": "[\"know direction\",\"locate creature\",\"purify food and drink\",\"teleport\"]"
+    },
+    {
+        "name": "Xenopterid",
+        "spells": "[]"
+    },
+    {
+        "name": "Yaoguai",
+        "spells": "[\"Poison\",\"Poison\"]"
+    },
+    {
+        "name": "Ypotryll",
+        "spells": "[]"
+    },
+    {
+        "name": "Zombie Lord",
+        "spells": "[]"
+    },
+    {
+        "name": "Zomok",
+        "spells": "[\"pass without trace\",\"command plants\",\"plant growth\",\"quench\",\"entangle\",\"liveoak\",\"transmute mud to rock\",\"transmute rock to mud\",\"wall of thorns\",\"shambler\"]"
+    },
+    {
+        "name": "Aatheriexa",
+        "spells": "[\"daze monster\",\"feather fall\",\"dispel magic\",\"lightning bolt\",\"dominate monster\"]"
+    },
+    {
+        "name": "Lipika",
+        "spell": "[]"
+    },
+    {
+        "name": "Othaos",
+        "spell": "[]"
+    },
+    {
+        "name": "Aerial Servant",
+        "spells": "[]"
+    },
+    {
+        "name": "Cervinal",
+        "spell": "[\"detect scrying\",\"see invisibility\",\"speak with animals\",\"discern lies\",\"freedom of movement\",\"greater teleport\",\"invisibility purge\",\"cure critical wounds\",\"dispel magic\",\"breath of life\",\"mass bull\\u0027s strength\",\"plane shift\",\"discern location\",\"greater scrying\"]"
+    },
+    {
+        "name": "Reptial",
+        "spell": "[\"speak with animals\",\"faerie fire\",\"color spray\",\"protection from evil\",\"object reading\",\"hideous laughter\"]"
+    },
+    {
+        "name": "Ahkhat",
+        "spells": "[\"open/close\",\"prestidigitation\",\"make whole\"]"
+    },
+    {
+        "name": "Ahool",
+        "spells": "[]"
+    },
+    {
+        "name": "Akaname",
+        "spells": "[]"
+    },
+    {
+        "name": "Amarok",
+        "spells": "[\"discern lies\",\"true seeing\",\"remove curse\"]"
+    },
+    {
+        "name": "Amphiptere",
+        "spells": "[]"
+    },
+    {
+        "name": "Android",
+        "spells": "[]"
+    },
+    {
+        "name": "Anemos",
+        "spells": "[\"fickle winds\",\"freedom of movement\",\"control weather\",\"control winds\",\"storm of vengeance\",\"summon monster IX\"]"
+    },
+    {
+        "name": "Balisse",
+        "spell": "[\"detect evil\",\"dispel evil\",\"dispel magic\",\"holy smite\",\"plane shift\",\"remove curse\",\"remove disease\",\"remove fear\",\"cure serious wounds\",\"mark of justice\"]"
+    },
+    {
+        "name": "Choral",
+        "spell": "[\"detect evil\",\"ghost sound\",\"dispel evil\",\"dispel magic\",\"plane shift\",\"remove curse\",\"remove disease\",\"remove fear\",\"cure moderate wounds\",\"sculpt sound\",\"sound burst\"]"
+    },
+    {
+        "name": "Empyrean",
+        "spell": "[\"detect evil\",\"detect snares and pits\",\"discern lies\",\"true seeing\",\"break enchantment\",\"continual flame\",\"dimensional anchor\",\"greater dispel magic\",\"lesser restoration\",\"mark of justice\",\"neutralize poison\",\"remove curse\",\"remove disease\",\"remove fear\",\"resist energy\",\"speak with dead\",\"blade barrier\",\"dispel evil\",\"mass charm monster\",\"resurrection\",\"greater restoration\",\"power word stun\",\"mass heal\",\"overwhelming presence\",\"righteous might\",\"antimagic field\",\"discern location\",\"greater spell immunity\",\"holy aura\",\"control weather\",\"holy word\",\"greater scrying\",\"waves of ecstasy\",\"joyful rapture\",\"wind walk\",\"word of recall\",\"breath of life\",\"divine favor\",\"fickle winds\",\"greater command\",\"plane shift\",\"death ward\",\"freedom of movement\",\"greater magic weapon\",\"invisibility purge\",\"stone shape\",\"wind wall\",\"make whole\",\"remove paralysis\",\"divine favor\",\"endure elements\",\"obscuring mist\",\"remove sickness\",\"shield of faith\",\"create water\",\"detect magic\",\"purify food and drink\"]"
+    },
+    {
+        "name": "Animate Hair",
+        "spells": "[]"
+    },
+    {
+        "name": "Knight Ant",
+        "spell": "[]"
+    },
+    {
+        "name": "Megapon Ant",
+        "spell": "[]"
+    },
+    {
+        "name": "Anunnaki",
+        "spells": "[\"true seeing\",\"etherealness\",\"greater teleport\",\"mental block\",\"mindlink\",\"greater dispel magic\",\"baleful polymorph\",\"primal regression\",\"divide mind\",\"overwhelming presence\"]"
+    },
+    {
+        "name": "Apallie",
+        "spells": "[\"alter self\"]"
+    },
+    {
+        "name": "Ape, Megaprimatus",
+        "spells": "[]"
+    },
+    {
+        "name": "Apkallu",
+        "spells": "[\"detect mindscape\",\"divide mind\",\"enshroud thoughts\",\"greater create mindscape\",\"hypercognition\",\"intellect fortress III\",\"mind probe\",\"mindlink\",\"mindscape door\",\"psychic asylum\",\"psychic reading\",\"thought shield V\",\"tower of\",\"Iron Will\",\"detect chaos\",\"freedom of movement\",\"true seeing\",\"control water\",\"greater teleport\",\"major creation\",\"order\\u0027s wrath\",\"plane shift\",\"order\\u0027s wrath\",\"overwhelming presence\",\"dimensional lock\",\"mass cure critical wounds\",\"shield of law\",\"greater dispel magic\",\"\",\"greater command\",\"greater forbid action\",\"mass cure light wounds\",\"wall of stone\",\"dimensional anchor\",\"create food and water\",\"invisibility purge\",\"speak with dead\",\"wind wall\",\"sound burst\",\"zone of truth\",\"comprehend languages\",\"divine favor\",\"obscuring mist\",\"shield of faith\",\"create water\",\"detect magic\",\"detect poison\",\"purify food and drink\",\"read magic\"]"
+    },
+    {
+        "name": "Exscinder",
+        "spell": "[\"detect evil\",\"true seeing\",\"cure light wounds\",\"detect thoughts\",\"discern lies\",\"holy smite\",\"modify memory\",\"protection from evil\",\"repress memory\",\"zone of truth\",\"dispel evil\",\"fireball\",\"flame strike\",\"plane shift\",\"discern location\",\"find the path\"]"
+    },
+    {
+        "name": "Gate Archon",
+        "spell": "[\"greater teleport\",\"glyph of warding\",\"plane shift\",\"mass heal\",\"dimensional lock\",\"greater spell immunity\",\"greater scrying\",\"holy word\",\"blade barrier\",\"break enchantment\",\"blessing of fervor\",\"searing light\"]"
+    },
+    {
+        "name": "Giant Assassin Bug",
+        "spell": "[]"
+    },
+    {
+        "name": "Great Assassin Bug",
+        "spell": "[]"
+    },
+    {
+        "name": "Astomoi",
+        "spells": "[\"expeditious retreat\",\"mind thrust I\",\"summon monster I\",\"grave words\",\"telekinetic projectile\"]"
+    },
+    {
+        "name": "Gancanagh",
+        "spell": "[\"mirror image\",\"cure moderate wounds\"]"
+    },
+    {
+        "name": "Raelis",
+        "spell": "[\"freedom of movement\",\"nondetection\",\"alter self\",\"dimension door\",\"modify memory\",\"greater teleport\",\"plane shift\",\"symbol of pain\",\"symbol of sleep\",\"greater invisibility\",\"beast shape I\",\"explosive runes\",\"glyph of warding\",\"lightning bolt\",\"sepia snake sigil\",\"detect thoughts\",\"hypnotic pattern\",\"scorching ray\",\"see invisibility\",\"feather fall\",\"silent image\",\"ventriloquism\",\"arcane mark\",\"dancing lights\",\"detect magic\",\"detect poison\",\"mage hand\",\"prestidigitation\",\"read magic\"]"
+    },
+    {
+        "name": "Bagiennik",
+        "spells": "[\"cure light wounds\",\"remove disease\",\"cure moderate wounds\"]"
+    },
+    {
+        "name": "Dire Polar Bear",
+        "spell": "[]"
+    },
+    {
+        "name": "Polar Bear",
+        "spell": "[]"
+    },
+    {
+        "name": "Bisha Ga Tsuku",
+        "spells": "[\"cold ice strike\",\"freezing sphere\",\"wall of ice\"]"
+    },
+    {
+        "name": "Blightspawn",
+        "spells": "[\"freedom of movement\",\"pass without trace\",\"bestow curse\",\"diminish plants\",\"gust of wind\"]"
+    },
+    {
+        "name": "Bone Ship",
+        "spells": "[]"
+    },
+    {
+        "name": "Brain Mole",
+        "spell": "[\"expeditious retreat\",\"mind thrust I\",\"silent image\"]"
+    },
+    {
+        "name": "Brain mole monarch",
+        "spell": "[\"aversion\",\"major image\",\"mental barrier I\",\"mind thrust II\",\"silent image\"]"
+    },
+    {
+        "name": "Caller in Darkness",
+        "spells": "[\"aversion\",\"greater oneiric horror\",\"mind thrust V\",\"paranoia\",\"telempathic projection\"]"
+    },
+    {
+        "name": "Cameroceras",
+        "spells": "[]"
+    },
+    {
+        "name": "Capramace",
+        "spells": "[]"
+    },
+    {
+        "name": "Blood Caterpillar",
+        "spell": "[]"
+    },
+    {
+        "name": "Horn Caterpillar",
+        "spell": "[]"
+    },
+    {
+        "name": "Celedon",
+        "spells": "[]"
+    },
+    {
+        "name": "Cerynitis",
+        "spells": "[]"
+    },
+    {
+        "name": "Cetus",
+        "spells": "[\"control water\",\"control winds\",\"control weather\"]"
+    },
+    {
+        "name": "Cherufe",
+        "spells": "[]"
+    },
+    {
+        "name": "Chuspiki",
+        "spells": "[\"alter winds\",\"gust of wind\",\"whispering wind\",\"feather fall\"]"
+    },
+    {
+        "name": "Clockwork Familiar",
+        "spells": "[\"detect magic\"]"
+    },
+    {
+        "name": "Sphinx Colossus",
+        "spell": "[\"true strike\",\"moment of prescience\"]"
+    },
+    {
+        "name": "Wood Colossus",
+        "spell": "[]"
+    },
+    {
+        "name": "Corpse Lotus",
+        "spells": "[]"
+    },
+    {
+        "name": "Crone Queen",
+        "spells": "[\"mage armor\",\"frost fall\",\"magic missile\",\"obscuring mist\",\"bestow curse\",\"crushing despair\",\"ice storm\",\"unshakable chill\",\"wall of ice\",\"cone of cold\",\"freezing sphere\",\"polar ray\"]"
+    },
+    {
+        "name": "Cuero",
+        "spells": "[]"
+    },
+    {
+        "name": "Cursed King",
+        "spells": "[]"
+    },
+    {
+        "name": "Cyclops, Kabandha",
+        "spells": "[\"see invisibility\"]"
+    },
+    {
+        "name": "Cytillipede",
+        "spells": "[]"
+    },
+    {
+        "name": "Dark Folk, Caligni",
+        "spells": "[]"
+    },
+    {
+        "name": "Death Coach",
+        "spells": "[\"ghost sound\",\"distracting cacophony\",\"phantasmal killer\"]"
+    },
+    {
+        "name": "Deep One",
+        "spell": "[]"
+    },
+    {
+        "name": "Elder Deep One",
+        "spell": "[\"cloak of chaos\",\"freedom of movement\",\"black tentacles\",\"dominate monster\",\"symbol of insanity\",\"binding\"]"
+    },
+    {
+        "name": "Deep One Hybrid",
+        "spell": "[\"cure light wounds\"]"
+    },
+    {
+        "name": "Delgeth",
+        "spells": "[]"
+    },
+    {
+        "name": "Gristly Demodand",
+        "spell": "[\"detect good\",\"detect magic\",\"see invisibility\",\"dimensional anchor\",\"excruciating deformation\",\"greater dispel magic\",\"pain strike\",\"mass pain strike\",\"waves of exhaustion\"]"
+    },
+    {
+        "name": "Stringy Demodand",
+        "spell": "[\"detect good\",\"detect magic\",\"detect thoughts\",\"greater dispel magic\"]"
+    },
+    {
+        "name": "Abrikandilu",
+        "spell": "[]"
+    },
+    {
+        "name": "Cambion",
+        "spell": "[\"death knell\"]"
+    },
+    {
+        "name": "Seraptis",
+        "spell": "[\"deathwatch\",\"true seeing\",\"unholy aura\",\"crushing despair\",\"dispel magic\",\"greater teleport\",\"dominate person\",\"symbol of insanity\"]"
+    },
+    {
+        "name": "Devastator",
+        "spells": "[\"unholy aura\",\"blade barrier\",\"dimensional anchor\",\"blasphemy\",\"plane shift\"]"
+    },
+    {
+        "name": "Apostate Devil (Deimavigga)",
+        "spell": "[\"alter self\",\"greater teleport\",\"major image\",\"mirage arcana\",\"ventriloquism\",\"blasphemy\",\"dominate person\",\"touch of idiocy\",\"mind fog\"]"
+    },
+    {
+        "name": "Heresy Devil (Ayngavhaul)",
+        "spell": "[\"deathwatch\",\"greater teleport\",\"illusory script\",\"mage hand\",\"major image\",\"deeper darkness\",\"dispel good\",\"dispel magic\",\"invisibility purge\",\"magic circle against good\",\"speak with dead\",\"stinking cloud\",\"unholy blight\",\"zone of silence\",\"blasphemy\"]"
+    },
+    {
+        "name": "Warmonger Devil (Levaloch)",
+        "spell": "[\"greater teleport\"]"
+    },
+    {
+        "name": "Digmaul",
+        "spells": "[]"
+    },
+    {
+        "name": "Ceratosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Plesiosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Therizinosaurus",
+        "spell": "[]"
+    },
+    {
+        "name": "Troodon",
+        "spell": "[]"
+    },
+    {
+        "name": "Doppeldrek",
+        "spells": "[]"
+    },
+    {
+        "name": "Dragonkin",
+        "spells": "[]"
+    },
+    {
+        "name": "Young Astral Dragon",
+        "spell": "[\"deja vu\",\"telekinetic projectile\",\"burst of insight\",\"sundering shards\",\"open/close\"]"
+    },
+    {
+        "name": "Adult Astral Dragon",
+        "spell": "[\"ego whip I\",\"hideous laughter\",\"burst of insight\",\"feather fall\",\"sundering shards\",\"true strike\",\"unwitting ally\",\"dancing lights\",\"detect magic\",\"open/close\"]"
+    },
+    {
+        "name": "Ancient Astral Dragon",
+        "spell": "[\"analyze aura\",\"aversion\",\"deja vu\",\"possession\",\"telekinetic projectile\",\"thoughtsense\",\"blade barrier\",\"disintegrate\",\"create mindscape\",\"remote viewing\",\"wall of force\",\"waves of fatigue\",\"greater false life\",\"spell immunity\",\"telekinetic charge\",\"ego whip I\",\"major image\",\"hideous laughter\",\"hypercognition\",\"mirror image\",\"touch of idiocy\",\"burst of insight\",\"feather fall\",\"sundering shards\",\"true strike\",\"unwitting ally\",\"dancing lights\",\"detect magic\",\"detect psychic significance\",\"mage hand\",\"open/close\"]"
+    },
+    {
+        "name": "Young Dream Dragon",
+        "spell": "[\"mirror strike\",\"ghost sound\"]"
+    },
+    {
+        "name": "Adult Dream Dragon",
+        "spell": "[\"euphoric cloud\",\"mirror strike\",\"thought shield II\",\"deep slumber\",\"mind thrust II\",\"blurred movement\",\"color spray\",\"true strike\",\"detect magic\",\"ghost sound\",\"mage hand\"]"
+    },
+    {
+        "name": "Ancient Dream Dragon",
+        "spell": "[\"dream travel\",\"euphoric cloud\",\"mirror strike\",\"thought shield II\",\"limited wish\",\"waves of exhaustion\",\"cloak of dreams\",\"dream council\",\"mental barrier V\",\"major creation\",\"wall of force\",\"waves of fatigue\",\"anti-incorporeal shell\",\"dimension door\",\"freedom of movement\",\"deep slumber\",\"purge spirit\",\"aversion\",\"mind thrust II\",\"blurred movement\",\"color spray\",\"true strike\",\"arcane mark\",\"detect magic\",\"ghost sound\",\"mage hand\"]"
+    },
+    {
+        "name": "Young Etheric Dragon",
+        "spell": "[]"
+    },
+    {
+        "name": "Adult Etheric Dragon",
+        "spell": "[\"mage hand\",\"mind thrust I\",\"false life\",\"anticipate peril\",\"detect thoughts\",\"magic missile\",\"detect magic\",\"detect poison\",\"ghost sound\",\"grave words\"]"
+    },
+    {
+        "name": "Ancient Etheric Dragon",
+        "spell": "[\"chill metal\",\"mage hand\",\"mind thrust I\",\"telekinetic maneuver\",\"plane shift\",\"wall of ectoplasm\",\"arcane eye\",\"condensed ether\",\"dimension door\",\"phantasmal killer\",\"aura sight\",\"deep slumber\",\"thought shield II\",\"false life\",\"pain strike\",\"see invisibility\",\"anticipate peril\",\"detect thoughts\",\"silent image\",\"magic missile\",\"dancing lights\",\"detect magic\",\"detect poison\",\"ghost sound\",\"grave words\"]"
+    },
+    {
+        "name": "Young Nightmare Dragon",
+        "spell": "[]"
+    },
+    {
+        "name": "Adult Nightmare Dragon",
+        "spell": "[\"ghost sound\",\"true strike\",\"mirror image\",\"detect thoughts\",\"unwitting ally\",\"dancing lights\",\"detect psychic significance\"]"
+    },
+    {
+        "name": "Ancient Nightmare Dragon",
+        "spell": "[\"dimension door\",\"ghost sound\",\"true strike\",\"dream travel\",\"greater dispel magic\",\"dream scan\",\"ego whip III\",\"erase impressions\",\"agonize\",\"crushing despair\",\"phantasmal killer\",\"stoneskin\",\"deep slumber\",\"major image\",\"wall of nausea\",\"haunting mists\",\"mind thrust II\",\"mirror image\",\"touch of idiocy\",\"compel hostility\",\"detect thoughts\",\"unwitting ally\",\"dancing lights\",\"detect magic\",\"detect psychic significance\",\"telekinetic projectile\"]"
+    },
+    {
+        "name": "Young Occult Dragon",
+        "spell": "[\"forbid action\",\"mage armor\",\"detect magic\",\"detect psychic significance\",\"mage hand\",\"read magic\"]"
+    },
+    {
+        "name": "Adult Occult Dragon",
+        "spell": "[\"blood biography\",\"forbid action\",\"gaseous form\",\"mental barrier II\",\"hideous laughter\",\"protection from arrows\",\"burst of adrenaline\",\"burst of insight\",\"mage armor\",\"detect magic\",\"detect psychic significance\",\"grave words\",\"mage hand\",\"read magic\"]"
+    },
+    {
+        "name": "Ancient Occult Dragon",
+        "spell": "[\"blood biography\",\"cognitive block\",\"debilitating portent\",\"forbid action\",\"speak with dead\",\"greater teleport\",\"limited wish\",\"blade barrier\",\"permanent image\",\"repress memory\",\"mind fog\",\"psychic crush I\",\"synapse overload\",\"dimension door\",\"spell immunity\",\"gaseous form\",\"mental barrier II\",\"speak with dead\",\"hideous laughter\",\"protection from arrows\",\"zone of truth\",\"burst of adrenaline\",\"burst of insight\",\"mage armor\",\"detect poison\",\"ghost sound\",\"grave words\",\"mage hand\",\"read magic\",\"telekinetic projectile\"]"
+    },
+    {
+        "name": "Ether Drake",
+        "spell": "[\"burst of adrenaline\",\"condensed ether\",\"mindlink\"]"
+    },
+    {
+        "name": "Jungle Drake",
+        "spell": "[]"
+    },
+    {
+        "name": "Duppy",
+        "spells": "[]"
+    },
+    {
+        "name": "Dwiergeth",
+        "spells": "[\"feather fall\",\"gust of wind\",\"control winds\",\"wind wall\"]"
+    },
+    {
+        "name": "Echeneis",
+        "spells": "[]"
+    },
+    {
+        "name": "Egregore",
+        "spells": "[\"mass bear\\u0027s endurance\",\"mass bull\\u0027s strength\",\"mage armor\",\"mental barrier I\",\"cure moderate wounds\"]"
+    },
+    {
+        "name": "Elemental, Aether",
+        "spells": "[]"
+    },
+    {
+        "name": "Emotion Ooze",
+        "spells": "[\"Power Attack\",\"Great Fortitude\",\"Toughness\",\"Improved Initiative\",\"Lightning Reflexes\"]"
+    },
+    {
+        "name": "Encantado",
+        "spells": "[\"unnatural lust\",\"daze monster\",\"control weather\"]"
+    },
+    {
+        "name": "Etiainen",
+        "spells": "[\"deja vu\",\"ghost sound\",\"disguise self\",\"mage hand\",\"mindlink\",\"open/close\"]"
+    },
+    {
+        "name": "Familiar",
+        "spells": "[]"
+    },
+    {
+        "name": "Fastachee",
+        "spells": "[\"plant growth\",\"speak with plants\",\"thorny entanglement\",\"transport via plants\",\"greater dispel magic\",\"mass bear\\u0027s endurance\",\"baleful polymorph\",\"breath of life\",\"commune with nature\",\"wall of thorns\",\"command plants\",\"cure critical wounds\",\"flame strike\",\"freedom of movement\",\"spike stones\",\"aqueous orb\",\"call lightning\",\"cure serious wounds\",\"protection from energy\",\"remove disease\",\"spike growth\",\"barkskin\",\"cat\\u0027s grace\",\"cure moderate wounds\",\"flaming sphere\",\"lesser restoration\",\"soften earth and stone\",\"tree shape\",\"ant haul\",\"cure light wounds\",\"endure elements\",\"faerie fire\",\"goodberry\",\"longstrider\",\"obscuring mist\",\"create water\",\"detect magic\",\"purify food and drink\"]"
+    },
+    {
+        "name": "Fext",
+        "spells": "[\"death knell\",\"protection from good\",\"speak with dead\",\"bestow curse\"]"
+    },
+    {
+        "name": "Firbolg",
+        "spells": "[\"reduce person\",\"alter self\",\"detect magic\"]"
+    },
+    {
+        "name": "Frog Father",
+        "spell": "[]"
+    },
+    {
+        "name": "Goliath Frog",
+        "spell": "[]"
+    },
+    {
+        "name": "Gegenees",
+        "spells": "[]"
+    },
+    {
+        "name": "Ghoran",
+        "spells": "[\"detect poison\",\"goodberry\",\"purify food and drink\"]"
+    },
+    {
+        "name": "Ghoul, Leng",
+        "spells": "[]"
+    },
+    {
+        "name": "Eclipse Giant",
+        "spell": "[\"deeper darkness\",\"lunar veil\",\"polar midnight\"]"
+    },
+    {
+        "name": "Moon Giant",
+        "spell": "[\"true seeing\",\"dancing lights\",\"detect magic\",\"control water\"]"
+    },
+    {
+        "name": "Sun Giant",
+        "spell": "[\"eagle eye\",\"blistering invective\",\"flame strike\",\"waves of exhaustion\"]"
+    },
+    {
+        "name": "Glaistig",
+        "spells": "[\"freedom of movement\",\"pass without trace\",\"create water\",\"transport via plants\",\"clashing rocks\",\"flesh to stone\",\"move earth\",\"summon nature\\u0027s ally IX\"]"
+    },
+    {
+        "name": "Crystal Golem",
+        "spell": "[\"explode head\",\"mind thrust II\"]"
+    },
+    {
+        "name": "Lead Golem",
+        "spell": "[]"
+    },
+    {
+        "name": "Gravebound",
+        "spells": "[]"
+    },
+    {
+        "name": "Gray",
+        "spells": "[\"anticipate thoughts\",\"mind thrust II\"]"
+    },
+    {
+        "name": "Gray Goo",
+        "spells": "[]"
+    },
+    {
+        "name": "Hobkins",
+        "spell": "[\"dancing lights\",\"ghost sound\",\"silent image\"]"
+    },
+    {
+        "name": "Nuno",
+        "spell": "[]"
+    },
+    {
+        "name": "Griefgall",
+        "spells": "[\"crushing despair\",\"feast on fear\",\"miserable pity\",\"overwhelming grief\",\"terrible remorse\"]"
+    },
+    {
+        "name": "Grim Reaper Lesser Death",
+        "spells": "[\"see invisibility\",\"true seeing\",\"call spirit\",\"finger of death\",\"power word kill\",\"plane shift\",\"air walk\",\"see invisibility\",\"call spirit\",\"slay living\",\"finger of death\",\"plane shift\"]"
+    },
+    {
+        "name": "Grimslake",
+        "spells": "[\"death knell\",\"ray of exhaustion\"]"
+    },
+    {
+        "name": "Grioth",
+        "spells": "[]"
+    },
+    {
+        "name": "Guardian Scroll",
+        "spells": "[]"
+    },
+    {
+        "name": "Gunpowder Ooze",
+        "spells": "[]"
+    },
+    {
+        "name": "Hag Eye Ooze",
+        "spells": "[]"
+    },
+    {
+        "name": "Heikegani",
+        "spells": "[]"
+    },
+    {
+        "name": "Domovoi",
+        "spell": "[\"mage hand\",\"prestidigitation\",\"reduce person\"]"
+    },
+    {
+        "name": "Dvorovoi",
+        "spell": "[\"speak with animals\",\"hide from animals\",\"reduce person\"]"
+    },
+    {
+        "name": "Ovinnik",
+        "spell": "[\"produce flame\"]"
+    },
+    {
+        "name": "Hundun",
+        "spells": "[\"air walk\",\"detect law\",\"chaos hammer\",\"dimension door\",\"greater dispel magic\",\"mass inflict moderate wounds\",\"plane shift\",\"dimension door\",\"disintegrate\",\"mass inflict moderate wounds\",\"word of chaos\",\"orb of the void\",\"disintegrate\",\"mage\\u0027s disjunction\"]"
+    },
+    {
+        "name": "Ichthyocentaur",
+        "spells": "[]"
+    },
+    {
+        "name": "Isonade",
+        "spells": "[]"
+    },
+    {
+        "name": "Karkadann",
+        "spells": "[\"detect evil\",\"detect good\",\"dimension door\",\"neutralize poison\"]"
+    },
+    {
+        "name": "Kawa Akago",
+        "spells": "[]"
+    },
+    {
+        "name": "Ketesthius",
+        "spells": "[\"gust of wind\",\"obscuring mist\",\"control weather\"]"
+    },
+    {
+        "name": "Khala",
+        "spells": "[\"fire shield\",\"ice storm\",\"incendiary cloud\",\"control weather\",\"polar ray\"]"
+    },
+    {
+        "name": "Kikimora",
+        "spells": "[\"forced quiet\",\"prestidigitation\",\"stone call\",\"deep slumber\",\"pain strike\",\"major image\",\"make whole\",\"summon swarm\"]"
+    },
+    {
+        "name": "Kurobozu",
+        "spells": "[]"
+    },
+    {
+        "name": "Lamhigyn",
+        "spells": "[]"
+    },
+    {
+        "name": "Leechroot",
+        "spells": "[]"
+    },
+    {
+        "name": "Flytrap Leshy",
+        "spell": "[\"pass without trace\"]"
+    },
+    {
+        "name": "Lotus Leshy",
+        "spell": "[\"lily pad stride\",\"pass without trace\"]"
+    },
+    {
+        "name": "Grim Reaper Lesser Death",
+        "spells": "[\"see invisibility\",\"true seeing\",\"call spirit\",\"finger of death\",\"power word kill\",\"plane shift\",\"air walk\",\"see invisibility\",\"call spirit\",\"slay living\",\"finger of death\",\"plane shift\"]"
+    },
+    {
+        "name": "Liminal Sprite",
+        "spells": "[\"prestidigitation\",\"fumbletongue\",\"memory lapse\"]"
+    },
+    {
+        "name": "Living Mirage",
+        "spells": "[]"
+    },
+    {
+        "name": "Lotus Tree",
+        "spells": "[\"dream council\",\"dream scan\",\"dream voyage\",\"greater dispel magic\",\"id insinuation IV\",\"microcosm\",\"mind probe\",\"psychic image\",\"detect thoughts\",\"mass suggestion\",\"mind thrust VI\",\"animate plants\"]"
+    },
+    {
+        "name": "Lusca",
+        "spells": "[\"chain lightning\"]"
+    },
+    {
+        "name": "Manu",
+        "spell": "[\"analyze aura\",\"aversion\",\"enshroud thoughts\",\"mind thrust VI\",\"psychic asylum\",\"psychic crush I\",\"quintessence\"]"
+    },
+    {
+        "name": "Maharishi Manu",
+        "spell": "[\"catatonia\",\"cognitive block\",\"divide mind\",\"mind thrust IV\",\"remote viewing\",\"retrocognition\",\"unshakable zeal\",\"greater teleport\",\"plane shift\"]"
+    },
+    {
+        "name": "Rishi Manu",
+        "spell": "[\"awaken construct\",\"divide mind\",\"ego whip V\",\"greater create mindscape\",\"mindscape door\",\"retrocognition\"]"
+    },
+    {
+        "name": "Twilight Pitri (Barhisad)",
+        "spell": "[\"aversion\",\"awaken construct\",\"babble\",\"ego whip V\",\"greater synaptic pulse\",\"mind thrust VI\",\"mindwipe\",\"psychic image\",\"psychic surgery\",\"synapse overload\"]"
+    },
+    {
+        "name": "Chalicotherium",
+        "spell": "[]"
+    },
+    {
+        "name": "Kaprosuchus",
+        "spell": "[]"
+    },
+    {
+        "name": "Moa",
+        "spell": "[]"
+    },
+    {
+        "name": "Uintatherium",
+        "spell": "[]"
+    },
+    {
+        "name": "Merfolk, Deep",
+        "spells": "[]"
+    },
+    {
+        "name": "Mngwa",
+        "spells": "[\"feather step\",\"chameleon stride\",\"pass without trace\"]"
+    },
+    {
+        "name": "Moon Dog",
+        "spells": "[\"dancing lights\"]"
+    },
+    {
+        "name": "Muckdweller",
+        "spell": "[]"
+    },
+    {
+        "name": "Giant Muckdweller",
+        "spell": "[]"
+    },
+    {
+        "name": "Mummy Lord",
+        "spells": "[\"dispel good\",\"greater contagion\",\"slay living\",\"shadow conjuration\",\"\",\"Spit Venom\",\"animate dead\",\"bestow curse\",\"deeper darkness\",\"magic vestment\",\"sands of time\",\"align weapon\",\"bull\\u0027s strength\",\"dread bolt\",\"detect good\",\"divine favor\",\"protection from good\",\"detect magic\",\"read magic\"]"
+    },
+    {
+        "name": "Mummy, Swamp",
+        "spells": "[]"
+    },
+    {
+        "name": "Muse",
+        "spells": "[\"brilliant inspiration\",\"irresistible dance\",\"greater dispel magic\",\"greater heroism\",\"frozen note\",\"shadowbard\",\"break enchantment\",\"heroic finale\",\"modify memory\",\"virtuoso performance\",\"exquisite accompaniment\",\"purging finale\",\"eagle\\u0027s splendor\",\"gallant inspiration\",\"honeyed tongue\",\"share memory\",\"tactical acumen\",\"hideous laughter\",\"liberating command\",\"saving finale\",\"solid note\",\"timely inspiration\",\"detect magic\",\"ghost sound\",\"prestidigitation\",\"summon instrument\"]"
+    },
+    {
+        "name": "Mutant",
+        "spells": "[]"
+    },
+    {
+        "name": "Nemhain",
+        "spells": "[\"slay living\",\"antilife shell\",\"wall of force\"]"
+    },
+    {
+        "name": "Ningen",
+        "spells": "[\"hydraulic torrent\",\"freezing sphere\"]"
+    },
+    {
+        "name": "Nulmind",
+        "spells": "[\"ego whip I\",\"id insinuation I\",\"mental barrier I\",\"mind thrust IV\"]"
+    },
+    {
+        "name": "Ophiotaurus",
+        "spells": "[\"mind blank\"]"
+    },
+    {
+        "name": "Orang-Pendak",
+        "spells": "[]"
+    },
+    {
+        "name": "Ostovite",
+        "spells": "[]"
+    },
+    {
+        "name": "Papinijuwari",
+        "spells": "[]"
+    },
+    {
+        "name": "Peuchen",
+        "spells": "[\"vampiric touch\"]"
+    },
+    {
+        "name": "Phantom, Unfettered",
+        "spells": "[]"
+    },
+    {
+        "name": "Pharaonic Guardian",
+        "spells": "[\"greater command\"]"
+    },
+    {
+        "name": "Plague Swarm",
+        "spells": "[]"
+    },
+    {
+        "name": "Plagued Beast",
+        "spells": "[]"
+    },
+    {
+        "name": "Plankta",
+        "spells": "[]"
+    },
+    {
+        "name": "Polong",
+        "spells": "[]"
+    },
+    {
+        "name": "Psychemental",
+        "spells": "[\"cognitive block\",\"ego whip I\",\"mind probe\",\"mind thrust III\",\"possession\",\"synaptic pulse\",\"thought shield III\"]"
+    },
+    {
+        "name": "Psychepore",
+        "spells": "[]"
+    },
+    {
+        "name": "Putrid Ooze",
+        "spells": "[]"
+    },
+    {
+        "name": "Pyrausta",
+        "spells": "[]"
+    },
+    {
+        "name": "Ramidreju",
+        "spells": "[\"create pit\"]"
+    },
+    {
+        "name": "Reptoid",
+        "spells": "[\"detect magic\",\"prestidigitation\"]"
+    },
+    {
+        "name": "Rhu-Chalik",
+        "spells": "[\"mage armor\",\"detect thoughts\",\"share memory\",\"modify memory\"]"
+    },
+    {
+        "name": "Riftcreeper",
+        "spells": "[\"feather fall\"]"
+    },
+    {
+        "name": "Annihilator",
+        "spell": "[]"
+    },
+    {
+        "name": "Gearsman",
+        "spell": "[]"
+    },
+    {
+        "name": "Myrmidon",
+        "spell": "[]"
+    },
+    {
+        "name": "Terraformer",
+        "spell": "[]"
+    },
+    {
+        "name": "Roiling Oil",
+        "spells": "[]"
+    },
+    {
+        "name": "Rope Dragon",
+        "spells": "[\"animate rope\"]"
+    },
+    {
+        "name": "Esipil",
+        "spell": "[\"mage hand\",\"mirror image\",\"contact other plane\"]"
+    },
+    {
+        "name": "Kimenhul",
+        "spell": "[\"detect thoughts\",\"mind blank\",\"true seeing\",\"air walk\",\"greater teleport\",\"magic circle against good\",\"blasphemy\",\"crushing despair\",\"dispel magic\",\"malicious spite\",\"antipathy\",\"symbol of fear\"]"
+    },
+    {
+        "name": "Pakalchi",
+        "spell": "[\"true seeing\",\"detect magic\",\"detect good\",\"greater teleport\",\"protection from good\",\"dominate person\"]"
+    },
+    {
+        "name": "Qolok",
+        "spell": "[\"mind blank\",\"true seeing\",\"air walk\",\"detect magic\",\"detect good\",\"greater dispel magic\",\"greater teleport\",\"deeper darkness\",\"disintegrate\",\"mass suggestion\",\"nondetection\",\"mind blank\",\"plane shift\"]"
+    },
+    {
+        "name": "Wihsaak",
+        "spell": "[\"detect magic\",\"greater teleport\",\"vomit swarm\",\"see invisibility\",\"unholy blight\"]"
+    },
+    {
+        "name": "Sangoi",
+        "spells": "[\"hide from animals\",\"hide from undead\",\"detect thoughts\",\"animal trance\",\"control weather\",\"dominate animal\",\"speak with dead\"]"
+    },
+    {
+        "name": "Saxra",
+        "spells": "[\"deathwatch\",\"true seeing\",\"call spirit\",\"gust of wind\",\"finger of death\",\"horrid wilting\",\"unholy blight\"]"
+    },
+    {
+        "name": "Scarab, Giant",
+        "spells": "[]"
+    },
+    {
+        "name": "Scarab Swarm",
+        "spells": "[]"
+    },
+    {
+        "name": "Scitalis",
+        "spells": "[]"
+    },
+    {
+        "name": "Hunter Urchin",
+        "spell": "[]"
+    },
+    {
+        "name": "Spear Urchin",
+        "spell": "[]"
+    },
+    {
+        "name": "Seilenos",
+        "spells": "[\"speak with animals\",\"stone tell\",\"true seeing\",\"commune with nature\",\"crushing despair\",\"dancing lights\",\"mass suggestion\",\"mirage arcana\",\"persistent image\",\"polymorph any object\",\"reckless infatuation\",\"waves of ecstasy\",\"greater heroism\",\"vengeful outrage\",\"cloak of dreams\",\"mass charm monster\",\"plant growth\",\"reincarnate\"]"
+    },
+    {
+        "name": "Sha",
+        "spells": "[]"
+    },
+    {
+        "name": "Shabti",
+        "spells": "[\"cure light wounds\",\"summon monster I\",\"create water\",\"detect magic\",\"ghost sound\",\"mage hand\"]"
+    },
+    {
+        "name": "Shadow Collector",
+        "spells": "[\"dancing lights\",\"disguise self\",\"major image\",\"shadow evocation\",\"leashed shackles\",\"shadow step\",\"shadow conjuration\",\"shadow evocation\",\"shadow walk\"]"
+    },
+    {
+        "name": "Shasalqu",
+        "spells": "[]"
+    },
+    {
+        "name": "Shen",
+        "spells": "[\"true seeing\",\"control water\",\"create water\",\"hydraulic push\",\"water walk\",\"greater shadow evocation\",\"control weather\",\"greater shadow conjuration\",\"prismatic spray\",\"globe of invulnerability\",\"greater dispel magic\",\"mass suggestion\",\"programmed image\",\"dominate person\",\"persistent image\",\"shadow evocation\",\"dimension door\",\"greater invisibility\",\"rainbow pattern\",\"shadow conjuration\",\"deep slumber\",\"dispel magic\",\"major image\",\"euphoric cloud\",\"hypnotic pattern\",\"minor image\",\"mirror image\",\"comprehend languages\",\"obscuring mist\",\"silent image\",\"unseen servant\"]"
+    },
+    {
+        "name": "Shrimp, Giant Mantis",
+        "spells": "[]"
+    },
+    {
+        "name": "Skinwalker",
+        "spells": "[\"speak with animals\"]"
+    },
+    {
+        "name": "Somalcygot",
+        "spells": "[]"
+    },
+    {
+        "name": "Storm Hag",
+        "spells": "[\"gust of wind\",\"whispering wind\",\"lightning bolt\",\"river of wind\",\"control winds\"]"
+    },
+    {
+        "name": "Stormghost",
+        "spells": "[\"alter winds\",\"fog cloud\",\"deeper darkness\",\"greater invisibility\",\"gust of wind\",\"ice storm\",\"control weather\",\"plague storm\"]"
+    },
+    {
+        "name": "Stranglereed",
+        "spells": "[]"
+    },
+    {
+        "name": "Su",
+        "spells": "[\"id insinuation II\",\"mind thrust III\",\"thought shield II\"]"
+    },
+    {
+        "name": "Syricta",
+        "spells": "[]"
+    },
+    {
+        "name": "Taxidermic Creature",
+        "spells": "[]"
+    },
+    {
+        "name": "Termite, Giant",
+        "spells": "[]"
+    },
+    {
+        "name": "Termite Swarm",
+        "spells": "[]"
+    },
+    {
+        "name": "Thought Eater",
+        "spells": "[\"daze monster\",\"detect thoughts\",\"resist energy\"]"
+    },
+    {
+        "name": "Thriae Constructor",
+        "spell": "[]"
+    },
+    {
+        "name": "Thriae Dancer",
+        "spell": "[\"detect secret doors\",\"deep slumber\"]"
+    },
+    {
+        "name": "Titan, Danava",
+        "spells": "[\"air walk\",\"mind blank\",\"true seeing\",\"water walk\",\"bestow curse\",\"break enchantment\",\"greater dispel magic\",\"chain lightning\",\"greater scrying\",\"mass suggestion\",\"greater planar ally\",\"mass heal\",\"soul bind\"]"
+    },
+    {
+        "name": "Tiyanak",
+        "spells": "[\"crushing despair\",\"dimension door\"]"
+    },
+    {
+        "name": "Tizheruk",
+        "spells": "[]"
+    },
+    {
+        "name": "Trench Mist",
+        "spells": "[]"
+    },
+    {
+        "name": "Tsaalgrend",
+        "spells": "[]"
+    },
+    {
+        "name": "Tsukumogami",
+        "spells": "[\"decrepit disguise\",\"ghost sound\",\"quintessence\",\"decrepit disguise\",\"ghost sound\",\"quintessence\",\"ventriloquism\",\"decrepit disguise\",\"ghost sound\",\"quintessence\",\"silent image\",\"ventriloquism\"]"
+    },
+    {
+        "name": "Tulpa",
+        "spells": "[\"burst of adrenaline\",\"burst of insight\",\"ego whip I\",\"paranoia\"]"
+    },
+    {
+        "name": "Turul",
+        "spells": "[\"detect magic\",\"see invisibility\",\"cure critical wounds\",\"greater dispel magic\",\"remove curse\",\"breath of life\",\"searing light\",\"reincarnate\"]"
+    },
+    {
+        "name": "Undigested",
+        "spell": "[]"
+    },
+    {
+        "name": "Undigested Swarm",
+        "spell": "[]"
+    },
+    {
+        "name": "Uraeus",
+        "spells": "[]"
+    },
+    {
+        "name": "Urannag",
+        "spells": "[]"
+    },
+    {
+        "name": "Ursikka",
+        "spells": "[]"
+    },
+    {
+        "name": "Vahana",
+        "spells": "[]"
+    },
+    {
+        "name": "Ved",
+        "spells": "[]"
+    },
+    {
+        "name": "Veela",
+        "spells": "[\"gust of wind\",\"resist energy\",\"cure serious wounds\",\"ball lightning\",\"dispel magic\",\"stoneskin\",\"stone call\",\"cure serious wounds\",\"resist energy\",\"scorching ray\",\"cure serious wounds\",\"hydraulic push\",\"resist energy\",\"cure serious wounds\",\"cone of cold\",\"dispel magic\"]"
+    },
+    {
+        "name": "Vescavor Queen",
+        "spell": "[]"
+    },
+    {
+        "name": "Vescavor Swarm",
+        "spell": "[]"
+    },
+    {
+        "name": "Vilderavn",
+        "spells": "[\"true seeing\",\"bestow curse\",\"crushing despair\",\"detect thoughts\",\"circle of death\",\"modify memory\",\"limited wish\"]"
+    },
+    {
+        "name": "Vishap",
+        "spells": "[\"etherealness\",\"greater create mindscape\",\"greater possession\",\"ethereal envelopment\",\"psychic crush III\",\"ego whip IV\",\"psychic surgery\",\"etheric shards\",\"explode head\",\"id insinuation IV\",\"wall of ectoplasm\",\"condensed ether\",\"mind probe\",\"mindwipe\",\"synaptic scramble\",\"thought shield III\",\"thoughtsense\",\"analyze aura\",\"ectoplasmic snare\",\"node of blasting\",\"purge spirit\",\"mindscape door\",\"synaptic pulse\",\"anticipate thoughts\",\"aversion\",\"demand offering\",\"detect mindscape\",\"hypercognition\",\"instigate psychic duel\",\"mental block\",\"burst of adrenaline\",\"charge object\",\"decrepit disguise\",\"deja vu\",\"mindlink\",\"psychic reading\",\"telempathic projection\"]"
+    },
+    {
+        "name": "Vukodlak",
+        "spells": "[]"
+    },
+    {
+        "name": "Wakandagi",
+        "spells": "[\"detect evil\",\"detect magic\",\"fog cloud\",\"aqueous orb\",\"neutralize poison\"]"
+    },
+    {
+        "name": "Warmonger Wasp",
+        "spells": "[]"
+    },
+    {
+        "name": "Water Leaper",
+        "spells": "[]"
+    },
+    {
+        "name": "Blue Whale",
+        "spell": "[]"
+    },
+    {
+        "name": "Narwhal",
+        "spell": "[]"
+    },
+    {
+        "name": "Witchcrow",
+        "spells": "[\"detect magic\",\"speak with animals\",\"perceive cues\",\"ventriloquism\",\"mirror image\"]"
+    },
+    {
+        "name": "Wizard's Shackle",
+        "spells": "[\"arcane sight\"]"
+    },
+    {
+        "name": "Wolliped",
+        "spells": "[]"
+    },
+    {
+        "name": "Wyrmwraith",
+        "spells": "[\"animate dead\",\"\",\"Command Undead\",\"detect undead\",\"protection from good\",\"create undead\",\"control undead\",\"unholy blight\",\"create greater undead\",\"finger of death\",\"waves of exhaustion\",\"energy drain\",\"soul bind\"]"
+    },
+    {
+        "name": "Wysp",
+        "spells": "[]"
+    },
+    {
+        "name": "Xiao",
+        "spells": "[\"burning hands\"]"
+    },
+    {
+        "name": "Yangethe",
+        "spells": "[\"air walk\",\"tree shape\",\"control summoned creature\",\"true strike\"]"
+    },
+    {
+        "name": "Zygomind",
+        "spells": "[\"greater create mindscape\"]"
     }
 ]
